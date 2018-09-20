@@ -66,7 +66,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Attention U-Net:Learning Where to Look for the Pancreas(2018) [[pdf]](https://arxiv.org/abs/1804.03999) [[code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - Self-Attention Generative Adversarial Networks(2018.5) [[pdf]](https://arxiv.org/abs/1805.08318) [[code_PyTorch]](https://github.com/heykeetae/Self-Attention-GAN)
 (Notes: 将自我注意机制引入到GAN的生成模型中，对于图像的纹理和几何上的联系提供全局的注意使得生成的图像更加的合理)
-- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+- Learning Visual Question Answering by Bootstrapping Hard Attention (2018.8) [[pdf]](https://arxiv.org/abs/1808.00300) [[code]](https://github.com/gnouhp/PyTorch-AdaHAN) (Note: Hard-Attention)
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.8) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+
 ### Natural Language Processing Related
 - Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
 
