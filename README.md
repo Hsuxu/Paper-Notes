@@ -41,6 +41,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Super Resolution
 
 ### Object Detection
+- Deep Learning for Generic Object Detection: A Survey (2018.9-IJCV) [[pdf]](https://arxiv.org/abs/1809.02165)
 
 ### Semantic Segmentation
 - Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.4) [[pdf]](https://arxiv.org/pdf/1804.06242)
