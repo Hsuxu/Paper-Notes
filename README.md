@@ -41,6 +41,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Super Resolution
 
 ### Object Detection
+
+- Focal Loss for Dense Object Detection (2017.7)[[pdf]](https://arxiv.org/abs/1708.02002)
 - Deep Learning for Generic Object Detection: A Survey (2018.9-IJCV) [[pdf]](https://arxiv.org/abs/1809.02165)
 
 ### Semantic Segmentation
