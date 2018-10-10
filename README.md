@@ -6,13 +6,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Contents](#contents)
         - [Backbone Network](#backbone-network)
         - [Image Recognition](#image-recognition)
-        - [Super Resolution](#super-resolution)
+        
         - [Object Detection](#object-detection)
         - [Semantic Segmentation](#semantic-segmentation)
         - [Image Caption](#image-caption)
         - [Generative Adversarial Networks](#generative-adversarial-networks)
         - [Attention Mechanism](#attention-mechanism)
         - [Natural Language Processing Related](#natural-language-processing-related)
+        - [Other Applications](#other-applications)
+            - [1. Super Resolution](#super-resolution)
         - [Dataset and Contest](#dataset-and-contest)
             - [1. Dataset](#1-dataset)
             - [2. Contest](#2-contest)
@@ -37,8 +39,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Image Recognition
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
-
-### Super Resolution
 
 ### Object Detection
 
@@ -75,6 +75,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Natural Language Processing Related
 - Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+
+### Other Applications
+#### Super Resolution
+- Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[code_PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
 ### Dataset and Contest
 
