@@ -18,7 +18,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
         - [Dataset and Contest](#dataset-and-contest)
             - [1. Dataset](#1-dataset)
             - [2. Contest](#2-contest)
-        - [Training Techniques](#training-techniques)
+        - [Others](#others)
 
 
 <!-- * [Backbone Network](#backbone-network)
@@ -102,5 +102,6 @@ Grand Challenges in Biomedical Image Analysis
 #### 2. Contest
 - [AI Challenger](https://challenger.ai/)
 
-### Training Techniques
-- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
+### Others
+- Image Data Augmentation--Albumentations: fast and flexible image augmentations [[pdf]](https://arxiv.org/abs/1809.06839)
+- Training Techniques--An overview of gradient descent optimization algorithms[[url]](http://ruder.io/optimizing-gradient-descent/index.html)
