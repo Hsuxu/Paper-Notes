@@ -1,6 +1,6 @@
-CV-DL Recommandations
+CV-DL Recommandations(Irregular updates)
 ===
-Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments.
+Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments. 
 ## Contents
 - [CV-DL Recommandations](#cv-dl-recommandations)
     - [Contents](#contents)
