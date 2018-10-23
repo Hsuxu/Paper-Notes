@@ -54,7 +54,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Semantic Segmentation
 - Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.4) [[pdf]](https://arxiv.org/pdf/1804.06242)
-- Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation--DeepLab V3+ (2018.2) [[pdf]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus)[[code_TensorFlow](official)](https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
+- Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation--DeepLab V3+ (2018.2) [[pdf]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus)[[code_TensorFlow(official)]](https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - Pyramid Attention Network for Semantic Segmentation(2018.5) [[pdf]](https://arxiv.org/pdf/1805.10180)
 - Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.9)[[pdf]](https://arxiv.org/abs/1809.04184) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
