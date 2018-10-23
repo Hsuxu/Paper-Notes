@@ -22,17 +22,23 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
         - [Others](#others)
         
 
-<!-- * [Backbone Network](#backbone-network)
-* [Image Recognition](#image-recognition)
-* [Super Resolution](#super-resolution)
-* [Object Detection](#object-detection)
-* [Semantic Segmentation](#semantic-segmentation)
-* [Image Caption](#image-caption)
-* [Generative Adversarial Networks](#generative-adversarial-networks)
-* [Attention Mechanism](#attention-mechanism)
-* [Natural Language Processing Related](#natural-language-processing-related)
-* [Dataset and Contest](#dataset-and-contest)
-* [Training Techniques](#training-techniques) -->
+<!-- 
+- [Contents](#contents)
+    - [Backbone Network](#backbone-network)
+    - [Image Recognition](#image-recognition)
+    - [Object Detection](#object-detection)
+    - [Semantic Segmentation](#semantic-segmentation)
+    - [Image Caption](#image-caption)
+    - [Generative Adversarial Networks](#generative-adversarial-networks)
+    - [Attention Mechanism](#attention-mechanism)
+    - [Natural Language Processing Related](#natural-language-processing-related)
+    - [Medical Image Analysis](#medical-image-analysis)
+    - [Other Applications](#other-applications)
+        - [Super Resolution](#super-resolution)
+    - [Dataset and Contest](#dataset-and-contest)
+        - [1. Dataset](#1-dataset)
+        - [2. Contest](#2-contest)
+    - [Others](#others)
 
 ### Backbone Network
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
@@ -48,9 +54,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Semantic Segmentation
 - Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.4) [[pdf]](https://arxiv.org/pdf/1804.06242)
-- Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation--DeepLab V3+ (2018.2) [[pdf]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus)[[code_TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)(official) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
+- Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation--DeepLab V3+ (2018.2) [[pdf]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus)[[code_TensorFlow](official)](https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - Pyramid Attention Network for Semantic Segmentation(2018.5) [[pdf]](https://arxiv.org/pdf/1805.10180)
-
+- Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.9)[[pdf]](https://arxiv.org/abs/1809.04184) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ### Image Caption
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[pdf]](https://arxiv.org/abs/1502.03044) [[code_tensorflow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
