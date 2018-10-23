@@ -38,7 +38,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Dataset and Contest](#dataset-and-contest)
         - [1. Dataset](#1-dataset)
         - [2. Contest](#2-contest)
-    - [Others](#others)
+    - [Others](#others) -->
 
 ### Backbone Network
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
