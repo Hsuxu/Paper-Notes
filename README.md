@@ -5,7 +5,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [CV-DL Recommandations](#cv-dl-recommandations)
     - [Contents](#contents)
         - [Backbone Network](#backbone-network)
-        - [Image Recognition](#image-recognition)
         - [Object Detection](#object-detection)
         - [Semantic Segmentation](#semantic-segmentation)
         - [Image Caption](#image-caption)
@@ -23,10 +22,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Backbone Network
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
-
-
-### Image Recognition
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
+
 - How Does Batch Normalization Help Optimization? (2018.05-NeurIPS18)[[pdf]](https://arxiv.org/abs/1805.11604)
 
 ### Object Detection
