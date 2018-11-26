@@ -6,7 +6,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Contents](#contents)
         - [Backbone Network](#backbone-network)
         - [Image Recognition](#image-recognition)
-        
         - [Object Detection](#object-detection)
         - [Semantic Segmentation](#semantic-segmentation)
         - [Image Caption](#image-caption)
@@ -22,24 +21,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
         - [Others](#others)
         
 
-<!-- 
-- [Contents](#contents)
-    - [Backbone Network](#backbone-network)
-    - [Image Recognition](#image-recognition)
-    - [Object Detection](#object-detection)
-    - [Semantic Segmentation](#semantic-segmentation)
-    - [Image Caption](#image-caption)
-    - [Generative Adversarial Networks](#generative-adversarial-networks)
-    - [Attention Mechanism](#attention-mechanism)
-    - [Natural Language Processing Related](#natural-language-processing-related)
-    - [Medical Image Analysis](#medical-image-analysis)
-    - [Other Applications](#other-applications)
-        - [Super Resolution](#super-resolution)
-    - [Dataset and Contest](#dataset-and-contest)
-        - [1. Dataset](#1-dataset)
-        - [2. Contest](#2-contest)
-    - [Others](#others) -->
-
 ### Backbone Network
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
 
@@ -51,7 +32,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 - Focal Loss for Dense Object Detection (2017.7)[[pdf]](https://arxiv.org/abs/1708.02002)
 - Deep Learning for Generic Object Detection: A Survey (2018.9-IJCV) [[pdf]](https://arxiv.org/abs/1809.02165)
-
+- Rethinking ImageNet Pre-training (2018.11) [[pdf]](https://arxiv.org/abs/1811.08883)
 ### Semantic Segmentation
 - Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.4) [[pdf]](https://arxiv.org/pdf/1804.06242)
 - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation--DeepLab V3+ (2018.2) [[pdf]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus)[[code_TensorFlow(official)]](https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
