@@ -1,4 +1,4 @@
-CV-DL Recommandations(Irregular updates)
+CV-DL Reading List(Irregular updates)
 ===
 Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments. 
 ## Contents
