@@ -83,7 +83,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Medical Image Analysis
 - U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[pdf]](https://arxiv.org/abs/1505.04597) [[code]](https://github.com/milesial/Pytorch-UNet) [[code_Hsu_Implementation]](https://github.com/Hsuxu/carvana-pytorch-uNet)
 - V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[pdf]](https://arxiv.org/abs/1606.04797) [[code]](https://github.com/mattmacy/vnet.pytorch) [[code_Hsu_implementation]](https://github.com/Hsuxu/Magic-VNet)
-
+- AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[pdf]](https://arxiv.org/abs/1808.05238)
 
 ### Other Applications
 
