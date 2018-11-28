@@ -60,20 +60,21 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ### Generative Adversarial Networks
-- Video-to-Video Synthesis(2018) [[pdf]](https://arxiv.org/abs/1808.06601) [[code_PyTorch]](https://github.com/NVIDIA/vid2vid)
-- Diverse Image-to-Image Translation via Disentangled Representations(2018.8) [[pdf]](https://arxiv.org/abs/1808.00948) [[code_PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
+- Self-Attention Generative Adversarial Networks(2018.05) [[pdf]](https://arxiv.org/abs/1805.08318) [[code_PyTorch]](https://github.com/heykeetae/Self-Attention-GAN)
+- Diverse Image-to-Image Translation via Disentangled Representations(2018.08) [[pdf]](https://arxiv.org/abs/1808.00948) [[code_PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
+- Video-to-Video Synthesis(2018.08) [[pdf]](https://arxiv.org/abs/1808.06601) [[code_PyTorch]](https://github.com/NVIDIA/vid2vid)
 
 
 ### Attention Mechanism
-- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[pdf]](https://arxiv.org/abs/1502.03044) [[code_TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
-- Image Captioning with Semantic Attention(2016) [[pdf]](https://arxiv.org/abs/1603.03925) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
-- Attention Is All You Need(2017) [[pdf]](https://arxiv.org/abs/1706.03762) [[code_PyTorch]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [[code_TensorFlow]](https://github.com/Kyubyong/transformer)
-- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017) [[pdf]](https://arxiv.org/abs/1707.07998) [[code]](https://github.com/peteanderson80/bottom-up-attention)
-- Attention U-Net:Learning Where to Look for the Pancreas(2018) [[pdf]](https://arxiv.org/abs/1804.03999) [[code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
-- Self-Attention Generative Adversarial Networks(2018.5) [[pdf]](https://arxiv.org/abs/1805.08318) [[code_PyTorch]](https://github.com/heykeetae/Self-Attention-GAN)
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015.02) [[pdf]](https://arxiv.org/abs/1502.03044) [[code_TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
+- Image Captioning with Semantic Attention(2016.03) [[pdf]](https://arxiv.org/abs/1603.03925) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
+- Attention Is All You Need(2017.06) [[pdf]](https://arxiv.org/abs/1706.03762) [[code_PyTorch]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [[code_TensorFlow]](https://github.com/Kyubyong/transformer)
+- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017.07) [[pdf]](https://arxiv.org/abs/1707.07998) [[code]](https://github.com/peteanderson80/bottom-up-attention)
+- Attention U-Net:Learning Where to Look for the Pancreas(2018.04) [[pdf]](https://arxiv.org/abs/1804.03999) [[code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
+- Self-Attention Generative Adversarial Networks(2018.05) [[pdf]](https://arxiv.org/abs/1805.08318) [[code_PyTorch]](https://github.com/heykeetae/Self-Attention-GAN)
 (Notes: 将自我注意机制引入到GAN的生成模型中，对于图像的纹理和几何上的联系提供全局的注意使得生成的图像更加的合理)
-- Learning Visual Question Answering by Bootstrapping Hard Attention (2018.8) [[pdf]](https://arxiv.org/abs/1808.00300) [[code]](https://github.com/gnouhp/PyTorch-AdaHAN) (Note: Hard-Attention)
-- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.8) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+- Learning Visual Question Answering by Bootstrapping Hard Attention (2018.08) [[pdf]](https://arxiv.org/abs/1808.00300) [[code]](https://github.com/gnouhp/PyTorch-AdaHAN) (Note: Hard-Attention)
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
 
 
 ### Natural Language Processing Related
@@ -83,6 +84,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Medical Image Analysis
 - U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[pdf]](https://arxiv.org/abs/1505.04597) [[code]](https://github.com/milesial/Pytorch-UNet) [[code_Hsu_Implementation]](https://github.com/Hsuxu/carvana-pytorch-uNet)
 - V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[pdf]](https://arxiv.org/abs/1606.04797) [[code]](https://github.com/mattmacy/vnet.pytorch) [[code_Hsu_implementation]](https://github.com/Hsuxu/Magic-VNet)
+- Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[pdf]](https://arxiv.org/abs/1706.05721)
 - AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[pdf]](https://arxiv.org/abs/1808.05238)
 
 ### Other Applications
