@@ -1,11 +1,9 @@
-CV-DL Reading List(Irregular updates)
+CV-DL Papers Reading List(Irregular updates)
 ===
 Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments. 
 ## Contents
 - [Contents](#contents)
     - [Backbone Network](#backbone-network)
-        - [Normalization](#normalization)
-        - [Initialization](#initialization)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Image Caption](#image-caption)
@@ -15,26 +13,17 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Medical Image Analysis](#medical-image-analysis)
     - [Other Applications](#other-applications)
         - [Super Resolution](#super-resolution)
+    - [Training Skills](#training-skills)
+        - [Data Augmentation](#data-augmentation)
+        - [Normalization](#normalization)
+        - [Initialization](#initialization)
     - [Dataset and Contest](#dataset-and-contest)
-        - [1. Dataset](#1-dataset)
-        - [2. Contest](#2-contest)
-    - [Others](#others)
+        - [Dataset](#dataset)
+        - [Contest](#contest)
         
 
 ### Backbone Network
 - Squeeze-and-Excitation Networks(2017.9) [[pdf]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
-
-#### Normalization
-- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(2015.02) [[pdf]](https://arxiv.org/abs/1502.03167)
-- Layer Normalization(2016.07) [[pdf]](https://arxiv.org/abs/1607.06450)
-- Instance Normalization: The Missing Ingredient for Fast Stylization (2016.07) [[pdf]](https://arxiv.org/abs/1607.08022)
-- Group Normalization (2018.03)  [[pdf]](https://arxiv.org/abs/1803.08494) [[code]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
-- How Does Batch Normalization Help Optimization? (2018.05-NeurIPS18) [[pdf]](https://arxiv.org/abs/1805.11604)
-- Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[pdf]](https://arxiv.org/abs/1806.10779) [[code]](https://github.com/switchablenorms/Switchable-Normalization)
-
-#### Initialization
-- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015.02) [[pdf]](https://arxiv.org/abs/1502.01852)
-- Understanding the difficulty of training deep feedforward neural networks [[pdf]](http://proceedings.mlr.press/v9/glorot10a.html)
 
 
 ### Object Detection
@@ -93,10 +82,33 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[code_PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
 
+
+
+### Training Skills
+
+#### Data Augmentation
+- Data Augmentation by Pairing Samples for Images Classification [[pdf]](https://arxiv.org/abs/1801.02929) 
+- AutoAugment: Learning Augmentation Policies from Data [[pdf]](https://arxiv.org/abs/1805.09501) 
+- Albumentations: fast and flexible image augmentations [[pdf]](https://arxiv.org/abs/1809.06839)
+  
+#### Normalization
+- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(2015.02) [[pdf]](https://arxiv.org/abs/1502.03167)
+- Layer Normalization(2016.07) [[pdf]](https://arxiv.org/abs/1607.06450)
+- Instance Normalization: The Missing Ingredient for Fast Stylization (2016.07) [[pdf]](https://arxiv.org/abs/1607.08022)
+- Group Normalization (2018.03)  [[pdf]](https://arxiv.org/abs/1803.08494) [[code]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
+- How Does Batch Normalization Help Optimization? (2018.05-NeurIPS18) [[pdf]](https://arxiv.org/abs/1805.11604)
+- Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[pdf]](https://arxiv.org/abs/1806.10779) [[code]](https://github.com/switchablenorms/Switchable-Normalization)
+
+#### Initialization
+- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015.02) [[pdf]](https://arxiv.org/abs/1502.01852)
+- Understanding the difficulty of training deep feedforward neural networks [[pdf]](http://proceedings.mlr.press/v9/glorot10a.html)
+- Training Techniques--An overview of gradient descent optimization algorithms [[url]](http://ruder.io/optimizing-gradient-descent/index.html)
+- Synchronized-BatchNorm [[code_PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[code_MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
+
+
 ### Dataset and Contest
 
-#### 1. Dataset
-
+#### Dataset
 - [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/): 
 <!-- The main goal of this challenge is to recognize objects from a number of visual object classes in realistic scenes (i.e. not pre-segmented objects). It is fundamentally a supervised learning learning problem in that a training set of labelled images is provided. -->
 - [Cityscapes](https://www.cityscapes-dataset.com/): 
@@ -112,11 +124,5 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org): 
 <!-- Grand Challenges in Biomedical Image Analysis -->
 
-
-#### 2. Contest
+#### Contest
 - [AI Challenger](https://challenger.ai/)
-
-### Others
-- Image Data Augmentation--Albumentations: fast and flexible image augmentations [[pdf]](https://arxiv.org/abs/1809.06839)
-- Training Techniques--An overview of gradient descent optimization algorithms [[url]](http://ruder.io/optimizing-gradient-descent/index.html)
-- Synchronized-BatchNorm [[code_PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[code_MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
