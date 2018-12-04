@@ -4,6 +4,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ## Contents
 - [Contents](#contents)
     - [Backbone Network](#backbone-network)
+        - [Light Weight Network](#light-weight-network)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Image Caption](#image-caption)
@@ -29,7 +30,21 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Inception V2]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167) 
 - **[Inception V3]** Rethinking the Inception Architecture for Computer Vision (2015.12) [[Paper]](https://arxiv.org/abs/1512.00567) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py)
 - **[ResNet]** Deep Residual Learning for Image Recognition (2015.12) [[Paper]](https://arxiv.org/abs/1512.03385) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)
-- **[SENet]** Squeeze-and-Excitation Networks (2017.9) [[Paper]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
+- **[Inception v4]** Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) [[Paper]](https://arxiv.org/abs/1602.07261) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_v4.py) [[code_PyTorch]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/inceptionv4.py)
+- **[Wide ResNet]** Wide Residual Networks (2016.05) [[Paper]](https://arxiv.org/abs/1605.07146) [[code]](https://github.com/szagoruyko/wide-residual-networks)
+- **[Xception]** Xception: Deep Learning with Depthwise Separable Convolutions (2016.10) [[Paper]](https://arxiv.org/abs/1610.02357) [[code]](https://github.com/Cadene/pretrained-models.pytorch)
+- **[[ResNeXt]]** Aggregated Residual Transformations for Deep Neural Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05431) [[code]](https://github.com/Hsuxu/ResNeXt)
+- **[PolyNet]** PolyNet: A Pursuit of Structural Diversity in Very Deep Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05725) [[code]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/polynet.py)
+- **[DPN]** Dual Path Networks (2017.07) [[Paper]](https://arxiv.org/abs/1707.01629) [[code]](https://github.com/rwightman/pytorch-dpn-pretrained) [[code_mxnet]](https://github.com/cypw/DPNs)
+- **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[code]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
+- **[SENet]** Squeeze-and-Excitation Networks (2017.09) [[Paper]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
+- **[Capsules]** Dynamic Routing Between Capsules (2017.10) [[Paper]](https://arxiv.org/abs/1710.09829) [[code]](https://github.com/gram-ai/capsule-networks) 
+
+#### Light Weight Network
+- **[Squeeze Net]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size (2016.02) [[Paper]](https://arxiv.org/abs/1602.07360) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py)
+- **[MobileNets]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017.04) [[Paper]](https://arxiv.org/abs/1704.04861) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.py) [[code_PyTorch]](https://github.com/marvis/pytorch-mobilenet)
+- **[ShuffleNet V1]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (2017.07) [[Paper]](https://arxiv.org/abs/1707.01083) [[code]](https://github.com/jaxony/ShuffleNet)
+- **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07) [[Paper]](https://arxiv.org/abs/1707.02725) [[code]](https://github.com/hellozting/InterleavedGroupConvolutions)
 
 
 ### Object Detection
