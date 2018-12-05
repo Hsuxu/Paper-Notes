@@ -42,12 +42,14 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Non-Local]** Non-local Neural Networks (2017.11) [[Paper]](https://arxiv.org/abs/1711.07971) [[code]](https://github.com/AlexHex7/Non-local_pytorch) 
 - **[PNASNet]** Progressive Neural Architecture Search (2017.12) [[Paper]](https://arxiv.org/abs/1712.00559) [[code_PyTorch](https://github.com/chenxi116/PNASNet.pytorch) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/696b69a498b43f8e6a1ecb24bb82f7b9db87c570/research/slim/nets/nasnet/pnasnet.py)
 
+
 #### Light Weight Network
 - **[Squeeze Net]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size (2016.02) [[Paper]](https://arxiv.org/abs/1602.07360) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py)
 - **[MobileNets]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017.04) [[Paper]](https://arxiv.org/abs/1704.04861) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.py) [[code_PyTorch]](https://github.com/marvis/pytorch-mobilenet)
 - **[ShuffleNet V1]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (2017.07) [[Paper]](https://arxiv.org/abs/1707.01083) [[code]](https://github.com/jaxony/ShuffleNet)
 - **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07) [[Paper]](https://arxiv.org/abs/1707.02725) [[code]](https://github.com/hellozting/InterleavedGroupConvolutions)
-
+- **[MobileNet V2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks (2018.01 CVPR2018) [[Paper]](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tonylins/pytorch-mobilenet-v2)
+- **[SqueezeNext]** SqueezeNext: Hardware-Aware Neural Network Design (2018.03 CVPR2018) [[Paper]](https://arxiv.org/abs/1803.10615) [[code_Caffe]](https://github.com/amirgholami/SqueezeNext) [[code_PyTorch]](https://github.com/luuuyi/SqueezeNext.PyTorch)
 
 ### Object Detection
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.7) [[Paper]](https://arxiv.org/abs/1708.02002)
@@ -56,11 +58,12 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ### Semantic Segmentation
-- **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.4) [[Paper]](https://arxiv.org/Paper/1804.06242)
 - **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[code_TensorFlow(official)]](https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
-- **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.5) [[Paper]](https://arxiv.org/Paper/1805.10180)
+- **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 ECCV2018) [[Paper]](https://arxiv.org/abs/1803.06815) [[code]](https://github.com/sacmehta/ESPNet)
+- **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
+- **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09—AAAI2019) [[Paper]](https://arxiv.org/abs/1809.02983) [[code]](https://github.com/junfu1115/DANet)
-- **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.9) [[Paper]](https://arxiv.org/abs/1809.04184) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
+- **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 
 ### Image Caption
