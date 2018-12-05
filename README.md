@@ -25,6 +25,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ----
 
 ### Backbone Network
+- **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NIPs 2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
 - **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition (2014.09)[[Paper]](https://arxiv.org/abs/1409.1556)[[Slide]](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py)
 - **[Inception V1]** Going Deeper with Convolutions (2014.09) [[Paper]](https://arxiv.org/abs/1409.4842) [[code]](https://github.com/kuangliu/pytorch-cifar/blob/master/models/googlenet.py)
 - **[Inception V2]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167) 
@@ -42,18 +43,21 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Non-Local]** Non-local Neural Networks (2017.11) [[Paper]](https://arxiv.org/abs/1711.07971) [[code]](https://github.com/AlexHex7/Non-local_pytorch) 
 - **[PNASNet]** Progressive Neural Architecture Search (2017.12) [[Paper]](https://arxiv.org/abs/1712.00559) [[code_PyTorch](https://github.com/chenxi116/PNASNet.pytorch) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/696b69a498b43f8e6a1ecb24bb82f7b9db87c570/research/slim/nets/nasnet/pnasnet.py)
 
-
 #### Light Weight Network
 - **[Squeeze Net]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size (2016.02) [[Paper]](https://arxiv.org/abs/1602.07360) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py)
 - **[MobileNets]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017.04) [[Paper]](https://arxiv.org/abs/1704.04861) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.py) [[code_PyTorch]](https://github.com/marvis/pytorch-mobilenet)
 - **[ShuffleNet V1]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (2017.07) [[Paper]](https://arxiv.org/abs/1707.01083) [[code]](https://github.com/jaxony/ShuffleNet)
-- **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07) [[Paper]](https://arxiv.org/abs/1707.02725) [[code]](https://github.com/hellozting/InterleavedGroupConvolutions)
-- **[MobileNet V2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks (2018.01 CVPR2018) [[Paper]](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tonylins/pytorch-mobilenet-v2)
-- **[SqueezeNext]** SqueezeNext: Hardware-Aware Neural Network Design (2018.03 CVPR2018) [[Paper]](https://arxiv.org/abs/1803.10615) [[code_Caffe]](https://github.com/amirgholami/SqueezeNext) [[code_PyTorch]](https://github.com/luuuyi/SqueezeNext.PyTorch)
+- **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07 *ICCV 2017)* [[Paper]](https://arxiv.org/abs/1707.02725) [[code]](https://github.com/hellozting/InterleavedGroupConvolutions)
+- **[MobileNet V2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks (2018.01 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tonylins/pytorch-mobilenet-v2)
+- **[SqueezeNext]** SqueezeNext: Hardware-Aware Neural Network Design (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.10615) [[code_Caffe]](https://github.com/amirgholami/SqueezeNext) [[code_PyTorch]](https://github.com/luuuyi/SqueezeNext.PyTorch)
+- **[IGCV2]** IGCV2: Interleaved Structured Sparse Convolutional Neural Networks (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.06202) [[code]](https://github.com/homles11/IGCV3) 
+- **[IGCV3]** IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks (2018.06 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1806.00178) [[code]](https://github.com/homles11/IGCV3) 
+- **[ShuffleNet V2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design (2018.07 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1807.11164) [[code]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe) [[code_PyTorch]](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
+ 
 
 ### Object Detection
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.7) [[Paper]](https://arxiv.org/abs/1708.02002)
-- Deep Learning for Generic Object Detection: A Survey (2018.9-IJCV) [[Paper]](https://arxiv.org/abs/1809.02165)
+- Deep Learning for Generic Object Detection: A Survey (2018.9 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
 - Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
 
 
