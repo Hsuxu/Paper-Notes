@@ -35,7 +35,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Wide ResNet]** Wide Residual Networks (2016.05) [[Paper]](https://arxiv.org/abs/1605.07146) [[code]](https://github.com/szagoruyko/wide-residual-networks)
 - **[DenseNet]** Densely Connected Convolutional Networks (2016.08 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1608.06993) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/densenet.py)
 - **[Xception]** Xception: Deep Learning with Depthwise Separable Convolutions (2016.10) [[Paper]](https://arxiv.org/abs/1610.02357) [[code]](https://github.com/Cadene/pretrained-models.pytorch)
-- **[[ResNeXt]]** Aggregated Residual Transformations for Deep Neural Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05431) [[code]](https://github.com/Hsuxu/ResNeXt)
+- **[ResNeXt]** Aggregated Residual Transformations for Deep Neural Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05431) [[code]](https://github.com/Hsuxu/ResNeXt)
 - **[PolyNet]** PolyNet: A Pursuit of Structural Diversity in Very Deep Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05725) [[code]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/polynet.py)
 - **[DPN]** Dual Path Networks (2017.07) [[Paper]](https://arxiv.org/abs/1707.01629) [[code]](https://github.com/rwightman/pytorch-dpn-pretrained) [[code_mxnet]](https://github.com/cypw/DPNs)
 - **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[code]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
