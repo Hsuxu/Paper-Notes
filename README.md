@@ -26,6 +26,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Backbone Network
 - **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NIPs 2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
+- **[ZFNet]** Visualizing and Understanding Convolutional Networks (2013.11 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1311.2901) [[code]](https://github.com/InFoCusp/tf_cnnvis)
 - **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition (2014.09)[[Paper]](https://arxiv.org/abs/1409.1556)[[Slide]](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py)
 - **[Inception V1]** Going Deeper with Convolutions (2014.09) [[Paper]](https://arxiv.org/abs/1409.4842) [[code]](https://github.com/kuangliu/pytorch-cifar/blob/master/models/googlenet.py)
 - **[Inception V2]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167) 
