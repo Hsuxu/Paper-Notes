@@ -101,14 +101,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ### Natural Language Processing Related
-- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[Paper]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+- **[Pervasive Attention]** Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
 
 
 ### Medical Image Analysis
-- U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[Paper]](https://arxiv.org/abs/1505.04597) [[code]](https://github.com/milesial/Pytorch-UNet) [[code_Hsu_Implementation]](https://github.com/Hsuxu/carvana-pytorch-uNet)
-- V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[Paper]](https://arxiv.org/abs/1606.04797) [[code]](https://github.com/mattmacy/vnet.pytorch) [[code_Hsu_implementation]](https://github.com/Hsuxu/Magic-VNet)
-- Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
-- AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[Paper]](https://arxiv.org/abs/1808.05238)
+- **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[Paper]](https://arxiv.org/abs/1505.04597) [[code]](https://github.com/milesial/Pytorch-UNet) [[code_Hsu_Implementation]](https://github.com/Hsuxu/carvana-pytorch-uNet)
+- **[V-Net]** V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[Paper]](https://arxiv.org/abs/1606.04797) [[code]](https://github.com/mattmacy/vnet.pytorch) [[code_Hsu_implementation]](https://github.com/Hsuxu/Magic-VNet)
+- **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
+- **[AnatomyNet]** AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[Paper]](https://arxiv.org/abs/1808.05238)
+- Improving Data Augmentation for Medical Image Segmentation (2018.12 *MIDL 2018*) [[Paper]](https://openreview.net/forum?id=rkBBChjiG)
 
 ### Other Applications
 
