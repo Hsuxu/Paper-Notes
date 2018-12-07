@@ -71,6 +71,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09—AAAI2019) [[Paper]](https://arxiv.org/abs/1809.02983) [[code]](https://github.com/junfu1115/DANet)
 - **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
+- **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
 
 
 ### Image Caption
@@ -120,9 +121,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Training Skills
 
 #### Data Augmentation
-- Data Augmentation by Pairing Samples for Images Classification [[Paper]](https://arxiv.org/abs/1801.02929) 
-- AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) 
-- Albumentations: fast and flexible image augmentations [[Paper]](https://arxiv.org/abs/1809.06839)
+- **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification [[Paper]](https://arxiv.org/abs/1801.02929) 
+- **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) 
+- **[Albumentations]** Albumentations: fast and flexible image augmentations [[Paper]](https://arxiv.org/abs/1809.06839)
+- **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
   
 #### Normalization
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(2015.02) [[Paper]](https://arxiv.org/abs/1502.03167)
