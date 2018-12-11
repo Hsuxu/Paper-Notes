@@ -75,12 +75,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[RefineNet]** RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation (2016.11 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1611.06612) [[MatConvNet]](https://github.com/guosheng/refinenet) [[PyTorch]](https://github.com/thomasjpfan/pytorch_refinenet)
 - **[IFCN]** Improving Fully Convolution Network for Semantic Segmentation (2016.11) [[Paper]](https://arxiv.org/abs/1611.08986)
 - **[Tiramisu]** The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation (2016.11 *CVPRW 2017*) [[Paper]](https://arxiv.org/abs/1611.09326) [[Theano]](https://github.com/SimJeg/FC-DenseNet) [[PyTorch]](https://github.com/bfortuner/pytorch_tiramisu)
-<<<<<<< HEAD
 - **[PSPNet]** Pyramid Scene Parsing Network (2016.12 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1612.01105) [[Caffe]](https://github.com/hszhao/PSPNet) [[PyTorch1]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/pspnet.py) [PyTorch2]](https://github.com/Lextal/pspnet-pytorch)
 - **[DUC]** Understanding Convolution for Semantic Segmentation (2017.02 *WACV 2018*) [[Paper]](https://arxiv.org/abs/1702.08502) [[mxnet]](https://github.com/TuSimple/TuSimple-DUC)
-=======
-- **[PSPNet]** Pyramid Scene Parsing Network (2016.12 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1612.01105) [[Caffe]](https://github.com/hszhao/PSPNet) [[PyTorch1]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/pspnet.py) [[PyTorch2]](https://github.com/Lextal/pspnet-pytorch)
->>>>>>> a7ce358763efa2a1d2b6c7effed841a991ce4aea
 - **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[code_TensorFlow(official)]](https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 ECCV2018) [[Paper]](https://arxiv.org/abs/1803.06815) [[code]](https://github.com/sacmehta/ESPNet)
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
@@ -94,14 +90,13 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ## Object Detection
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.7) [[Paper]](https://arxiv.org/abs/1708.02002)
-- **[Cascade R-CNN]** Cascade R-CNN: Delving into High Quality Object Detection (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.00726) [[Caffe]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
-- Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
+- Deep Learning for Generic Object Detection: A Survey (2018.9 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
 - Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
 
 
 ## Image Caption
 - **[Show, Attend and Tell]** Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[Paper]](https://arxiv.org/abs/1502.03044) [[code_tensorflow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
-- Image Captioning with Semantic Attention(2016) [[Paper]](https://arxiv.org/abs/1603.03925) [[Caffe]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
+- Image Captioning with Semantic Attention(2016) [[Paper]](https://arxiv.org/abs/1603.03925) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017) [[Paper]](https://arxiv.org/abs/1707.07998) [[code]](https://github.com/peteanderson80/bottom-up-attention)
 - Convolutional Image Captioning(2017) [[Paper]](https://arxiv.org/abs/1711.09151) [[code]](https://github.com/aditya12agd5/convcap)
 - CNN+CNN: Convolutional Decoders for Image Captioning (2018) [[Paper]](https://arxiv.org/abs/1805.09019)
