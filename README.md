@@ -88,7 +88,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ENet]** ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation (2016.06 ) [[Paper]](https://arxiv.org/abs/1606.02147) [[Caffe]](https://github.com/TimoSaemann/ENet)
 
 ## Object Detection
-- **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
  **[Focal Loss]** Focal Loss for Dense Object Detection (2017.7) [[Paper]](https://arxiv.org/abs/1708.02002)
 - **[Cascade R-CNN]** Cascade R-CNN: Delving into High Quality Object Detection (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.00726) [[Caffe]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
 - Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
