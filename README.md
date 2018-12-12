@@ -18,8 +18,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
   - [Other Applications](#other-applications)
     - [Super Resolution](#super-resolution)
   - [Training Skills](#training-skills)
-    - [Training Skills](#training-skills-1)
-      - [Data Augmentation](#data-augmentation)
+    - [Data Augmentation](#data-augmentation)
     - [Normalization](#normalization)
     - [Initialization](#initialization)
   - [Dataset and Contest](#dataset-and-contest)
@@ -140,12 +139,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[code_PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
 ## Training Skills
-
-
-
-### Training Skills
-
-#### Data Augmentation
+### Data Augmentation
 - **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification [[Paper]](https://arxiv.org/abs/1801.02929) 
 - **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) 
 - **[Albumentations]** Albumentations: fast and flexible image augmentations [[Paper]](https://arxiv.org/abs/1809.06839)
