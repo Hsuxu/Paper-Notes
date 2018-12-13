@@ -18,8 +18,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
   - [Other Applications](#other-applications)
     - [Super Resolution](#super-resolution)
   - [Training Skills](#training-skills)
-    - [Training Skills](#training-skills-1)
-      - [Data Augmentation](#data-augmentation)
+    - [Data Augmentation](#data-augmentation)
     - [Normalization](#normalization)
     - [Initialization](#initialization)
   - [Dataset and Contest](#dataset-and-contest)
@@ -91,9 +90,11 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ICNet]** ICNet for Real-Time Semantic Segmentation on High-Resolution Images (2017.04 ) [[Paper]](https://arxiv.org/abs/1704.08545) [[Caffe]](https://github.com/hszhao/ICNet) [[PyTorch]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/icnet.py)
 
 ## Object Detection
+- **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.7) [[Paper]](https://arxiv.org/abs/1708.02002)
-- Deep Learning for Generic Object Detection: A Survey (2018.9 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
-- Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
+- **[Cascade R-CNN]** Cascade R-CNN: Delving into High Quality Object Detection (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.00726) [[Caffe]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
+- **[Survey]** Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
+- **[Training From Scratch]** Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
 
 
 ## Image Caption
@@ -139,12 +140,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[code_PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
 ## Training Skills
-
-
-
-### Training Skills
-
-#### Data Augmentation
+### Data Augmentation
 - **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification [[Paper]](https://arxiv.org/abs/1801.02929) 
 - **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) 
 - **[Albumentations]** Albumentations: fast and flexible image augmentations [[Paper]](https://arxiv.org/abs/1809.06839)
