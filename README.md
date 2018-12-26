@@ -28,38 +28,38 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ----
 
 ## Backbone Network
-- **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NIPs 2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
-- **[ZFNet]** Visualizing and Understanding Convolutional Networks (2013.11 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1311.2901) [[code]](https://github.com/InFoCusp/tf_cnnvis)
-- **[NIN]** Network In Network (2013.12 *ICLR 2014*) [[Paper]](https://arxiv.org/abs/1312.4400) [[code]](https://github.com/tflearn/tflearn/blob/master/examples/images/network_in_network.py)
-- **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition (2014.09)[[Paper]](https://arxiv.org/abs/1409.1556)[[Slide]](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py)
-- **[Inception V1]** Going Deeper with Convolutions (2014.09) [[Paper]](https://arxiv.org/abs/1409.4842) [[code]](https://github.com/kuangliu/pytorch-cifar/blob/master/models/googlenet.py)
+- **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NIPs 2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
+- **[ZFNet]** Visualizing and Understanding Convolutional Networks (2013.11 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1311.2901) [[TensorFlow]](https://github.com/InFoCusp/tf_cnnvis)
+- **[NIN]** Network In Network (2013.12 *ICLR 2014*) [[Paper]](https://arxiv.org/abs/1312.4400) [[TensorFlow(TFLearn)]](https://github.com/tflearn/tflearn/blob/master/examples/images/network_in_network.py)
+- **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition (2014.09)[[Paper]](https://arxiv.org/abs/1409.1556)[[Slide]](http://www.robots.ox.ac.uk/~karen/pdf/ILSVRC_2014.pdf) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py)
+- **[Inception V1]** Going Deeper with Convolutions (2014.09) [[Paper]](https://arxiv.org/abs/1409.4842) [[PyTorch]](https://github.com/kuangliu/pytorch-cifar/blob/master/models/googlenet.py)
 - **[Inception V2]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167) 
-- **[Inception V3]** Rethinking the Inception Architecture for Computer Vision (2015.12) [[Paper]](https://arxiv.org/abs/1512.00567) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py)
-- **[ResNet]** Deep Residual Learning for Image Recognition (2015.12) [[Paper]](https://arxiv.org/abs/1512.03385) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)
-- **[Inception v4]** Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) [[Paper]](https://arxiv.org/abs/1602.07261) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_v4.py) [[code_PyTorch]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/inceptionv4.py)
-- **[Wide ResNet]** Wide Residual Networks (2016.05) [[Paper]](https://arxiv.org/abs/1605.07146) [[code]](https://github.com/szagoruyko/wide-residual-networks)
-- **[DenseNet]** Densely Connected Convolutional Networks (2016.08 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1608.06993) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/densenet.py)
-- **[Xception]** Xception: Deep Learning with Depthwise Separable Convolutions (2016.10) [[Paper]](https://arxiv.org/abs/1610.02357) [[code]](https://github.com/Cadene/pretrained-models.pytorch)
-- **[ResNeXt]** Aggregated Residual Transformations for Deep Neural Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05431) [[code]](https://github.com/Hsuxu/ResNeXt)
-- **[PolyNet]** PolyNet: A Pursuit of Structural Diversity in Very Deep Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05725) [[code]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/polynet.py)
+- **[Inception V3]** Rethinking the Inception Architecture for Computer Vision (2015.12) [[Paper]](https://arxiv.org/abs/1512.00567) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py)
+- **[ResNet]** Deep Residual Learning for Image Recognition (2015.12) [[Paper]](https://arxiv.org/abs/1512.03385) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)
+- **[Inception v4]** Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) [[Paper]](https://arxiv.org/abs/1602.07261) [[TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/inception_v4.py) [[PyTorch]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/inceptionv4.py)
+- **[Wide ResNet]** Wide Residual Networks (2016.05) [[Paper]](https://arxiv.org/abs/1605.07146) [[PyTorch]](https://github.com/szagoruyko/wide-residual-networks)
+- **[DenseNet]** Densely Connected Convolutional Networks (2016.08 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1608.06993) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/densenet.py)
+- **[Xception]** Xception: Deep Learning with Depthwise Separable Convolutions (2016.10) [[Paper]](https://arxiv.org/abs/1610.02357) [[PyTorch]](https://github.com/Cadene/pretrained-models.pytorch)
+- **[ResNeXt]** Aggregated Residual Transformations for Deep Neural Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05431) [[PyTorch]](https://github.com/Hsuxu/ResNeXt)
+- **[PolyNet]** PolyNet: A Pursuit of Structural Diversity in Very Deep Networks (2016.11) [[Paper]](https://arxiv.org/abs/1611.05725) [[PyTorch]](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/polynet.py)
 - **[DRN]** Dilated Residual Networks (2017.05 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1705.09914) [[PyTorch]](https://github.com/fyu/drn/blob/master/classify.py)
-- **[DPN]** Dual Path Networks (2017.07) [[Paper]](https://arxiv.org/abs/1707.01629) [[code]](https://github.com/rwightman/pytorch-dpn-pretrained) [[code_mxnet]](https://github.com/cypw/DPNs)
-- **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[code]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
-- **[SENet]** Squeeze-and-Excitation Networks (2017.09) [[Paper]](https://arxiv.org/abs/1709.01507) [[code_Caffe]](https://github.com/hujie-frank/SENet) [[code_PyTorch]](https://github.com/moskomule/senet.pytorch)
-- **[Capsules]** Dynamic Routing Between Capsules (2017.10) [[Paper]](https://arxiv.org/abs/1710.09829) [[code]](https://github.com/gram-ai/capsule-networks) 
-- **[Non-Local]** Non-local Neural Networks (2017.11) [[Paper]](https://arxiv.org/abs/1711.07971) [[code]](https://github.com/AlexHex7/Non-local_pytorch) 
-- **[PNASNet]** Progressive Neural Architecture Search (2017.12) [[Paper]](https://arxiv.org/abs/1712.00559) [[code_PyTorch](https://github.com/chenxi116/PNASNet.pytorch) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/696b69a498b43f8e6a1ecb24bb82f7b9db87c570/research/slim/nets/nasnet/pnasnet.py)
+- **[DPN]** Dual Path Networks (2017.07) [[Paper]](https://arxiv.org/abs/1707.01629) [[PyTorch]](https://github.com/rwightman/pytorch-dpn-pretrained) [[MXNet]](https://github.com/cypw/DPNs)
+- **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
+- **[SENet]** Squeeze-and-Excitation Networks (2017.09) [[Paper]](https://arxiv.org/abs/1709.01507) [[Caffe]](https://github.com/hujie-frank/SENet) [[PyTorch]](https://github.com/moskomule/senet.pytorch)
+- **[Capsules]** Dynamic Routing Between Capsules (2017.10) [[Paper]](https://arxiv.org/abs/1710.09829) [[PyTorch]](https://github.com/gram-ai/capsule-networks) 
+- **[Non-Local]** Non-local Neural Networks (2017.11) [[Paper]](https://arxiv.org/abs/1711.07971) [[PyTorch]](https://github.com/AlexHex7/Non-local_pytorch) 
+- **[PNASNet]** Progressive Neural Architecture Search (2017.12) [[Paper]](https://arxiv.org/abs/1712.00559) [[PyTorch](https://github.com/chenxi116/PNASNet.pytorch) [[TensorFlow]](https://github.com/tensorflow/models/blob/696b69a498b43f8e6a1ecb24bb82f7b9db87c570/research/slim/nets/nasnet/pnasnet.py)
 
 ### Light Weight Network
-- **[Squeeze Net]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size (2016.02) [[Paper]](https://arxiv.org/abs/1602.07360) [[code]](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py)
-- **[MobileNets]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017.04) [[Paper]](https://arxiv.org/abs/1704.04861) [[code_TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.py) [[code_PyTorch]](https://github.com/marvis/pytorch-mobilenet)
-- **[ShuffleNet V1]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (2017.07) [[Paper]](https://arxiv.org/abs/1707.01083) [[code]](https://github.com/jaxony/ShuffleNet)
-- **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07 *ICCV 2017)* [[Paper]](https://arxiv.org/abs/1707.02725) [[code]](https://github.com/hellozting/InterleavedGroupConvolutions)
-- **[MobileNet V2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks (2018.01 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tonylins/pytorch-mobilenet-v2)
-- **[SqueezeNext]** SqueezeNext: Hardware-Aware Neural Network Design (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.10615) [[code_Caffe]](https://github.com/amirgholami/SqueezeNext) [[code_PyTorch]](https://github.com/luuuyi/SqueezeNext.PyTorch)
-- **[IGCV2]** IGCV2: Interleaved Structured Sparse Convolutional Neural Networks (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.06202) [[code]](https://github.com/homles11/IGCV3) 
-- **[IGCV3]** IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks (2018.06 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1806.00178) [[code]](https://github.com/homles11/IGCV3) 
-- **[ShuffleNet V2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design (2018.07 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1807.11164) [[code]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe) [[code_PyTorch]](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
+- **[Squeeze Net]** SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size (2016.02) [[Paper]](https://arxiv.org/abs/1602.07360) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py)
+- **[MobileNets]** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017.04) [[Paper]](https://arxiv.org/abs/1704.04861) [[TensorFlow]](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.py) [[PyTorch]](https://github.com/marvis/pytorch-mobilenet)
+- **[ShuffleNet V1]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (2017.07) [[Paper]](https://arxiv.org/abs/1707.01083) [[PyTorch]](https://github.com/jaxony/ShuffleNet)
+- **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07 *ICCV 2017)* [[Paper]](https://arxiv.org/abs/1707.02725) [[MXNet]](https://github.com/hellozting/InterleavedGroupConvolutions)
+- **[MobileNet V2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks (2018.01 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1801.04381) [[PyTorch]](https://github.com/tonylins/pytorch-mobilenet-v2)
+- **[SqueezeNext]** SqueezeNext: Hardware-Aware Neural Network Design (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.10615) [[Caffe]](https://github.com/amirgholami/SqueezeNext) [[PyTorch]](https://github.com/luuuyi/SqueezeNext.PyTorch)
+- **[IGCV2]** IGCV2: Interleaved Structured Sparse Convolutional Neural Networks (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.06202) [[MXNet]](https://github.com/homles11/IGCV3) 
+- **[IGCV3]** IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks (2018.06 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1806.00178) [[MXNet]](https://github.com/homles11/IGCV3) 
+- **[ShuffleNet V2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design (2018.07 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1807.11164) [[PyTorch]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe) [[PyTorch]](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
  
 
 ## Semantic Segmentation
@@ -78,7 +78,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[PSPNet]** Pyramid Scene Parsing Network (2016.12 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1612.01105) [[Caffe]](https://github.com/hszhao/PSPNet) [[PyTorch1]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/pspnet.py) [PyTorch2]](https://github.com/Lextal/pspnet-pytorch)
 - **[DUC]** Understanding Convolution for Semantic Segmentation (2017.02 *WACV 2018*) [[Paper]](https://arxiv.org/abs/1702.08502) [[mxnet]](https://github.com/TuSimple/TuSimple-DUC)
 - **[GCN]** Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network (2017.03 ) [[Paper]](https://arxiv.org/abs/1703.02719) [[PyTorch1]](https://github.com/MEDAL-IITB/Lung-Segmentation) [[PyTorch2]](https://github.com/SConsul/Global_Convolutional_Network)
-- **[LovaszSoftmax]** The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks (2017.05 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1705.08790) [[code]](https://github.com/bermanmaxim/LovaszSoftmax)
+- **[LovaszSoftmax]** The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks (2017.05 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1705.08790) [[PyTorch&TensorFlow]](https://github.com/bermanmaxim/LovaszSoftmax)
 - **[DRN]** Dilated Residual Networks (2017.05 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1705.09914) [[PyTorch]](https://github.com/fyu/drn/blob/master/classify.py)
 - **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
 - **[Generalised Dice]** Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations (2017.07 ) [[Paper]](https://arxiv.org/abs/1707.03237)
@@ -86,12 +86,12 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[SDN]** Stacked Deconvolutional Network for Semantic Segmentation (2017.08 ) [[Paper]](https://arxiv.org/abs/1708.04943)
 - **[Seg Everything]** Learning to Segment Every Thing (2017.11) [[Paper]](https://arxiv.org/abs/1711.10370)
 - **[MaskLab]** MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features (2017.12) [[Paper]](https://arxiv.org/abs/1712.04837) 
-- **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[code_TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[code_TensorFlow(official)]] (https://github.com/tensorflow/models/tree/master/research/deeplab) [[code_Pytorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
-- **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 ECCV2018) [[Paper]](https://arxiv.org/abs/1803.06815) [[code]](https://github.com/sacmehta/ESPNet)
+- **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[TensorFlow(official)]] (https://github.com/tensorflow/models/tree/master/research/deeplab) [[PyTorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
+- **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 *ECCV2018*) [[Paper]](https://arxiv.org/abs/1803.06815) [[PyTorch]](https://github.com/sacmehta/ESPNet)
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
-- **[DANet]** Dual Attention Network for Scene Segmentation (2018.09—AAAI2019) [[Paper]](https://arxiv.org/abs/1809.02983) [[code]](https://github.com/junfu1115/DANet)
-- **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
+- **[DANet]** Dual Attention Network for Scene Segmentation (2018.09—AAAI2019) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
+- **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
 
 ### Real Time Segmentation
@@ -109,40 +109,40 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ## Image Caption
-- **[Show, Attend and Tell]** Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[Paper]](https://arxiv.org/abs/1502.03044) [[code_tensorflow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
-- Image Captioning with Semantic Attention(2016) [[Paper]](https://arxiv.org/abs/1603.03925) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
-- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017) [[Paper]](https://arxiv.org/abs/1707.07998) [[code]](https://github.com/peteanderson80/bottom-up-attention)
-- Convolutional Image Captioning(2017) [[Paper]](https://arxiv.org/abs/1711.09151) [[code]](https://github.com/aditya12agd5/convcap)
+- **[Show, Attend and Tell]** Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[Paper]](https://arxiv.org/abs/1502.03044) [[TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
+- Image Captioning with Semantic Attention(2016) [[Paper]](https://arxiv.org/abs/1603.03925) [[Torch]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
+- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017) [[Paper]](https://arxiv.org/abs/1707.07998) [[Caffe]](https://github.com/peteanderson80/bottom-up-attention)
+- Convolutional Image Captioning(2017) [[Paper]](https://arxiv.org/abs/1711.09151) [[PyTorch]](https://github.com/aditya12agd5/convcap)
 - CNN+CNN: Convolutional Decoders for Image Captioning (2018) [[Paper]](https://arxiv.org/abs/1805.09019)
 
 
 ## Generative Adversarial Networks
 - **[MUNIT]** Multimodal Unsupervised Image-to-Image Translation (2018.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1804.04732)  [[PyTorch]](https://github.com/NVlabs/MUNIT)
-- **[SAGAN]** Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[code_PyTorch]](https://github.com/heykeetae/Self-Attention-GAN) 
-- **[DIRT]** Diverse Image-to-Image Translation via Disentangled Representations(2018.08) [[Paper]](https://arxiv.org/abs/1808.00948) [[code_PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
-- **[VID2VID]** Video-to-Video Synthesis(2018.08) [[Paper]](https://arxiv.org/abs/1808.06601) [[code_PyTorch]](https://github.com/NVIDIA/vid2vid)
-- **[BigGAN]** Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018.09) [[Paper]](https://arxiv.org/abs/1809.11096) [[code]](https://github.com/AaronLeong/BigGAN-pytorch)
+- **[SAGAN]** Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[PyTorch]](https://github.com/heykeetae/Self-Attention-GAN) 
+- **[DIRT]** Diverse Image-to-Image Translation via Disentangled Representations(2018.08) [[Paper]](https://arxiv.org/abs/1808.00948) [[PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
+- **[VID2VID]** Video-to-Video Synthesis(2018.08) [[Paper]](https://arxiv.org/abs/1808.06601) [[PyTorch]](https://github.com/NVIDIA/vid2vid)
+- **[BigGAN]** Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018.09) [[Paper]](https://arxiv.org/abs/1809.11096) [[PyTorch]](https://github.com/AaronLeong/BigGAN-pytorch)
 - **[styleGAN]** A Style-Based Generator Architecture for Generative Adversarial Networks (2018.12) [[Paper]](https://arxiv.org/abs/1812.04948) 
 
 ## Attention Mechanism
-- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015.02) [[Paper]](https://arxiv.org/abs/1502.03044) [[code_TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
-- Image Captioning with Semantic Attention(2016.03) [[Paper]](https://arxiv.org/abs/1603.03925) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
-- Attention Is All You Need(2017.06) [[Paper]](https://arxiv.org/abs/1706.03762) [[code_PyTorch]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [[code_TensorFlow]](https://github.com/Kyubyong/transformer)
-- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017.07) [[Paper]](https://arxiv.org/abs/1707.07998) [[code]](https://github.com/peteanderson80/bottom-up-attention)
-- Attention U-Net:Learning Where to Look for the Pancreas(2018.04) [[Paper]](https://arxiv.org/abs/1804.03999) [[code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
-- Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[code_PyTorch]](https://github.com/heykeetae/Self-Attention-GAN)
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015.02) [[Paper]](https://arxiv.org/abs/1502.03044) [[TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
+- Image Captioning with Semantic Attention(2016.03) [[Paper]](https://arxiv.org/abs/1603.03925) [[Torch]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
+- Attention Is All You Need(2017.06) [[Paper]](https://arxiv.org/abs/1706.03762) [[PyTorch]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [[TensorFlow]](https://github.com/Kyubyong/transformer)
+- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017.07) [[Paper]](https://arxiv.org/abs/1707.07998) [[Caffe]](https://github.com/peteanderson80/bottom-up-attention)
+- Attention U-Net:Learning Where to Look for the Pancreas(2018.04) [[Paper]](https://arxiv.org/abs/1804.03999) [[PyTorch]](https://github.com/ozan-oktay/Attention-Gated-Networks)
+- Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[PyTorch]](https://github.com/heykeetae/Self-Attention-GAN)
 (Notes: 将自我注意机制引入到GAN的生成模型中，对于图像的纹理和几何上的联系提供全局的注意使得生成的图像更加的合理)
-- Learning Visual Question Answering by Bootstrapping Hard Attention (2018.08) [[Paper]](https://arxiv.org/abs/1808.00300) [[code]](https://github.com/gnouhp/PyTorch-AdaHAN) (Note: Hard-Attention)
-- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+- Learning Visual Question Answering by Bootstrapping Hard Attention (2018.08) [[Paper]](https://arxiv.org/abs/1808.00300) [[PyTorch]](https://github.com/gnouhp/PyTorch-AdaHAN) (Note: Hard-Attention)
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[PyTorch]](https://github.com/elbayadm/attn2d)
 
 
 ## Natural Language Processing Related
-- **[Pervasive Attention]** Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+- **[Pervasive Attention]** Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[PyTorch]](https://github.com/elbayadm/attn2d)
 
 
 ## Medical Image Analysis
-- **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[Paper]](https://arxiv.org/abs/1505.04597) [[code]](https://github.com/milesial/Pytorch-UNet) [[code_Hsu_Implementation]](https://github.com/Hsuxu/carvana-pytorch-uNet)
-- **[V-Net]** V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[Paper]](https://arxiv.org/abs/1606.04797) [[code]](https://github.com/mattmacy/vnet.pytorch) [[code_Hsu_implementation]](https://github.com/Hsuxu/Magic-VNet)
+- **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[Paper]](https://arxiv.org/abs/1505.04597) [[PyTorch]](https://github.com/milesial/Pytorch-UNet) [[PyTorch(Hsu)]](https://github.com/Hsuxu/carvana-pytorch-uNet)
+- **[V-Net]** V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[Paper]](https://arxiv.org/abs/1606.04797) [[PyTorch]](https://github.com/mattmacy/vnet.pytorch) [[PyTorch(Hsu)]](https://github.com/Hsuxu/Magic-VNet)
 - **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
 - **[TDN]** Automated Detection of Clinically Significant Prostate Cancer in mp-MRI Images based on an End-to-End Deep Neural Network (2018.07 *TMI 2018*) [[Paper]](https://ieeexplore.ieee.org/iel7/42/8353174/08245842.pdf)
 - **[AnatomyNet]** AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[Paper]](https://arxiv.org/abs/1808.05238)
@@ -151,7 +151,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ## Other Applications
 
 ### Super Resolution
-- Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[code_PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
+- Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
 ## Training Skills
 ### Data Augmentation
@@ -164,15 +164,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(2015.02) [[Paper]](https://arxiv.org/abs/1502.03167)
 - Layer Normalization(2016.07) [[Paper]](https://arxiv.org/abs/1607.06450)
 - Instance Normalization: The Missing Ingredient for Fast Stylization (2016.07) [[Paper]](https://arxiv.org/abs/1607.08022)
-- Group Normalization (2018.03)  [[Paper]](https://arxiv.org/abs/1803.08494) [[code]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
+- Group Normalization (2018.03)  [[Paper]](https://arxiv.org/abs/1803.08494) [[TensorFlow]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
 - How Does Batch Normalization Help Optimization? (2018.05-NeurIPS18) [[Paper]](https://arxiv.org/abs/1805.11604)
-- Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[code]](https://github.com/switchablenorms/Switchable-Normalization)
+- Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[PyTorch]](https://github.com/switchablenorms/Switchable-Normalization)
 
 ### Initialization
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015.02) [[Paper]](https://arxiv.org/abs/1502.01852)
 - Understanding the difficulty of training deep feedforward neural networks [[Paper]](http://proceedings.mlr.press/v9/glorot10a.html)
 - Training Techniques--An overview of gradient descent optimization algorithms [[url]](http://ruder.io/optimizing-gradient-descent/index.html)
-- Synchronized-BatchNorm [[code_PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[code_MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
+- Synchronized-BatchNorm [[PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
 
 
 ## Dataset and Contest
