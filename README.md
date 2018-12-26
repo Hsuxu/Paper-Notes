@@ -1,9 +1,9 @@
-CV-DL Papers Reading List(Irregular updates)
+CV-DL Papers Reading List(Irregular updating)
 ===
 Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments. 
 
 ## Contents
-- [CV-DL Papers Reading List(Irregular updates)](#cv-dl-papers-reading-listirregular-updates)
+- [CV-DL Papers Reading List(Irregular updating)](#cv-dl-papers-reading-listirregular-updating)
   - [Contents](#contents)
   - [Backbone Network](#backbone-network)
     - [Light Weight Network](#light-weight-network)
