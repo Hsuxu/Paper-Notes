@@ -21,6 +21,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Data Augmentation](#data-augmentation)
     - [Normalization](#normalization)
     - [Initialization](#initialization)
+  - [AutoML](#automl)
   - [Dataset and Contest](#dataset-and-contest)
     - [Dataset](#dataset)
     - [Contest](#contest)
@@ -149,7 +150,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Improving Data Augmentation for Medical Image Segmentation (2018.12 *MIDL 2018*) [[Paper]](https://openreview.net/forum?id=rkBBChjiG)
 
 ## Other Applications
-
 ### Super Resolution
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 CVPR-2017) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
@@ -174,9 +174,17 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Training Techniques--An overview of gradient descent optimization algorithms [[url]](http://ruder.io/optimizing-gradient-descent/index.html)
 - Synchronized-BatchNorm [[PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
 
+## AutoML
+- Learning to Optimize(2016.06) [[Paper]](https://arxiv.org/abs/1606.01885)
+- Neural Architecture Search with Reinforcement Learning (2016.11) [[Paper]](https://arxiv.org/abs/1611.01578)
+- **[MetaQNN]** Designing Neural Network Architectures using Reinforcement Learning (2016.11 *ICLR 2017*) [[Paper]](https://arxiv.org/abs/1611.02167)
+- **[Large-Scale Evolution]** Large-Scale Evolution of Image Classifiers (2017.03 *ICML 2017*) [[Paper]](https://arxiv.org/abs/1703.01041)
+- **[Genetic CNN]** Genetic CNN [[Paper]](https://arxiv.org/abs/1703.01513)
+- **[EAS]** Efficient Architecture Search by Network Transformation(2017.07 *AAAI 2018*) [[Paper]](https://arxiv.org/abs/1707.04873) [[TensorFlow ]](https://github.com/han-cai/EAS)
+- **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
+- Hierarchical Representations for Efficient Architecture Search (2017.11 *ICLR 2018*) [[Paper]](https://arxiv.org/abs/1711.00436)
 
 ## Dataset and Contest
-
 ### Dataset
 - [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/)<!-- The main goal of this challenge is to recognize objects from a number of visual object classes in realistic scenes (i.e. not pre-segmented objects). It is fundamentally a supervised learning learning problem in that a training set of labelled images is provided. -->
 - [Cityscapes](https://www.cityscapes-dataset.com/)<!-- Large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames. -->
