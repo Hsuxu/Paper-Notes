@@ -183,6 +183,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[EAS]** Efficient Architecture Search by Network Transformation(2017.07 *AAAI 2018*) [[Paper]](https://arxiv.org/abs/1707.04873) [[TensorFlow ]](https://github.com/han-cai/EAS)
 - **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
 - Hierarchical Representations for Efficient Architecture Search (2017.11 *ICLR 2018*) [[Paper]](https://arxiv.org/abs/1711.00436)
+- **[AmoebaNet-A]** Regularized Evolution for Image Classifier Architecture Search (2018.02) [[Paper]](https://arxiv.org/abs/1802.01548)
+- **[ENAS]** Efficient Neural Architecture Search via Parameter Sharing (2018.02) [[Paper]](https://arxiv.org/abs/1802.03268) [[TensorFlow ]](https://github.com/melodyguan/enas) [[PyTorch]](https://github.com/carpedm20/ENAS-pytorch)
 
 ## Dataset and Contest
 ### Dataset
