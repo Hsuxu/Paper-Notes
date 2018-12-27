@@ -138,7 +138,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ## Natural Language Processing Related
-- **[Pervasive Attention]** Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[PyTorch]](https://github.com/elbayadm/attn2d)
+- **[Pervasive Attention]** Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08 *CoNLL 2018*) [[Paper]](https://arxiv.org/abs/1808.03867) [[PyTorch]](https://github.com/elbayadm/attn2d)
 
 
 ## Medical Image Analysis
@@ -155,18 +155,18 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ## Training Skills
 ### Data Augmentation
-- **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification [[Paper]](https://arxiv.org/abs/1801.02929) 
-- **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) 
-- **[Albumentations]** Albumentations: fast and flexible image augmentations [[Paper]](https://arxiv.org/abs/1809.06839)
+- **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification (2018.01) [[Paper]](https://arxiv.org/abs/1801.02929) 
+- **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data (2018.05) [[Paper]](https://arxiv.org/abs/1805.09501) 
+- **[Albumentations]** Albumentations: fast and flexible image augmentations (2018.09) [[Paper]](https://arxiv.org/abs/1809.06839)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
   
 ### Normalization
-- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(2015.02) [[Paper]](https://arxiv.org/abs/1502.03167)
-- Layer Normalization(2016.07) [[Paper]](https://arxiv.org/abs/1607.06450)
-- Instance Normalization: The Missing Ingredient for Fast Stylization (2016.07) [[Paper]](https://arxiv.org/abs/1607.08022)
-- Group Normalization (2018.03)  [[Paper]](https://arxiv.org/abs/1803.08494) [[TensorFlow]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
-- How Does Batch Normalization Help Optimization? (2018.05-NeurIPS18) [[Paper]](https://arxiv.org/abs/1805.11604)
-- Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[PyTorch]](https://github.com/switchablenorms/Switchable-Normalization)
+- **[Batch Normalization]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167)
+- **[Layer Normalization]** Layer Normalization(2016.07) [[Paper]](https://arxiv.org/abs/1607.06450)
+- **[Instance Normalization]** Instance Normalization: The Missing Ingredient for Fast Stylization (2016.07) [[Paper]](https://arxiv.org/abs/1607.08022)
+- **[Group Normalization]** Group Normalization (2018.03)  [[Paper]](https://arxiv.org/abs/1803.08494) [[TensorFlow]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
+- How Does Batch Normalization Help Optimization? (2018.05 *NeurIPS 2018*) [[Paper]](https://arxiv.org/abs/1805.11604)
+- **[Switchable Normalization]** Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[PyTorch]](https://github.com/switchablenorms/Switchable-Normalization)
 
 ### Initialization
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015.02) [[Paper]](https://arxiv.org/abs/1502.01852)
