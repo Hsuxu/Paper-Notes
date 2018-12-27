@@ -96,6 +96,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09—AAAI2019) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
 - **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
+- **[PAG]** Pixel-wise Attentional Gating for Scene Parsing (2018.11 *WACV 2019*) [[Paper]](https://www.ics.uci.edu/~fowlkes/papers/kf_pag_wacv2019.pdf)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
 
 ### Real Time Segmentation
