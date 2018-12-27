@@ -99,6 +99,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[PAG]** Pixel-wise Attentional Gating for Scene Parsing (2018.11 *WACV 2019*) [[Paper]](https://www.ics.uci.edu/~fowlkes/papers/kf_pag_wacv2019.pdf)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
 
+
 ### Real Time Segmentation
 - **[ENet]** ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation (2016.06 ) [[Paper]](https://arxiv.org/abs/1606.02147) [[Caffe]](https://github.com/TimoSaemann/ENet)
 - **[ICNet]** ICNet for Real-Time Semantic Segmentation on High-Resolution Images (2017.04 ) [[Paper]](https://arxiv.org/abs/1704.08545) [[Caffe]](https://github.com/hszhao/ICNet) [[PyTorch]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/icnet.py)
@@ -152,6 +153,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[TDN]** Automated Detection of Clinically Significant Prostate Cancer in mp-MRI Images based on an End-to-End Deep Neural Network (2018.07 *TMI 2018*) [[Paper]](https://ieeexplore.ieee.org/iel7/42/8353174/08245842.pdf)
 - **[AnatomyNet]** AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[Paper]](https://arxiv.org/abs/1808.05238)
 - Improving Data Augmentation for Medical Image Segmentation (2018.12 *MIDL 2018*) [[Paper]](https://openreview.net/forum?id=rkBBChjiG)
+- **[Ensemble]** A New Ensemble Learning Framework for 3D Biomedical Image Segmentation (2018.12 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1812.03945) [[code]](https://github.com/HaoZheng94/Ensemble)
 
 ## Other Applications
 ### Super Resolution
