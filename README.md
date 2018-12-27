@@ -93,11 +93,11 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[TensorFlow(official)]] (https://github.com/tensorflow/models/tree/master/research/deeplab) [[PyTorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1803.06815) [[PyTorch]](https://github.com/sacmehta/ESPNet)
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
+- **[PAG]** Pixel-wise Attentional Gating for Scene Parsing (2018.11 *WACV 2019*) [[Paper]](https://arxiv.org/abs/1805.01556)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09—AAAI2019) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
 - **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
-- **[PAG]** Pixel-wise Attentional Gating for Scene Parsing (2018.11 *WACV 2019*) [[Paper]](https://www.ics.uci.edu/~fowlkes/papers/kf_pag_wacv2019.pdf)
-- **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
+- **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.05) [[Paper]](https://arxiv.org/abs/1811.00174)
 
 
 ### Real Time Segmentation
@@ -147,8 +147,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ## Medical Image Analysis
-- **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.5) [[Paper]](https://arxiv.org/abs/1505.04597) [[PyTorch]](https://github.com/milesial/Pytorch-UNet) [[PyTorch(Hsu)]](https://github.com/Hsuxu/carvana-pytorch-uNet)
-- **[V-Net]** V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.6) [[Paper]](https://arxiv.org/abs/1606.04797) [[PyTorch]](https://github.com/mattmacy/vnet.pytorch) [[PyTorch(Hsu)]](https://github.com/Hsuxu/Magic-VNet)
+- **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.05) [[Paper]](https://arxiv.org/abs/1505.04597) [[PyTorch]](https://github.com/milesial/Pytorch-UNet) [[PyTorch(Hsu)]](https://github.com/Hsuxu/carvana-pytorch-uNet)
+- **[V-Net]** V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.06) [[Paper]](https://arxiv.org/abs/1606.04797) [[PyTorch]](https://github.com/mattmacy/vnet.pytorch) [[PyTorch(Hsu)]](https://github.com/Hsuxu/Magic-VNet)
 - **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
 - **[TDN]** Automated Detection of Clinically Significant Prostate Cancer in mp-MRI Images based on an End-to-End Deep Neural Network (2018.07 *TMI 2018*) [[Paper]](https://ieeexplore.ieee.org/iel7/42/8353174/08245842.pdf)
 - **[AnatomyNet]** AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[Paper]](https://arxiv.org/abs/1808.05238)
