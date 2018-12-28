@@ -96,7 +96,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[MaskLab]** MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features (2017.12) [[Paper]](https://arxiv.org/abs/1712.04837) 
 - **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[TensorFlow(official)]] (https://github.com/tensorflow/models/tree/master/research/deeplab) [[PyTorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
-- **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1803.06815) [[PyTorch]](https://github.com/sacmehta/ESPNet)
+- **[PRMs]** Weakly Supervised Instance Segmentation Using Class Peak Response (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.00880) [[PyTorch]](https://github.com/ZhouYanzhao/PRM)
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[G-FRNet]** Gated Feedback Refinement Network for Coarse-to-Fine Dense Semantic Image Labeling (2018.06 ) [[Paper]](https://arxiv.org/abs/1806.11266) 
