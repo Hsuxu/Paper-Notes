@@ -92,7 +92,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Generalised Dice]** Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations (2017.07 ) [[Paper]](https://arxiv.org/abs/1707.03237)
 - **[Segmentation-aware]** Segmentation-Aware Convolutional Networks Using Local Attention Masks (2017.08 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.04607) [[Caffe]](https://github.com/aharley/segaware)
 - **[SDN]** Stacked Deconvolutional Network for Semantic Segmentation (2017.08 ) [[Paper]](https://arxiv.org/abs/1708.04943)
-- **[Seg Everything]** Learning to Segment Every Thing (2017.11) [[Paper]](https://arxiv.org/abs/1711.10370)
+- **[Seg Everything]** Learning to Segment Every Thing (2017.11 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1711.10370) [[Caffe2]](https://github.com/ronghanghu/seg_every_thing)
 - **[MaskLab]** MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features (2017.12) [[Paper]](https://arxiv.org/abs/1712.04837) 
 - **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.2) [[Paper]](https://arxiv.org/abs/1802.02611) [[TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[TensorFlow(official)]] (https://github.com/tensorflow/models/tree/master/research/deeplab) [[PyTorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
