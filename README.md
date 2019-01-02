@@ -98,6 +98,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
 - **[PRMs]** Weakly Supervised Instance Segmentation Using Class Peak Response (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.00880) [[PyTorch]](https://github.com/ZhouYanzhao/PRM)
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
+- **[DFN]** Learning a Discriminative Feature Network for Semantic Segmentation (2018.4 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.09337) [[TensorFlow]](https://github.com/whitesockcat/Discriminative-Feature-Network)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[G-FRNet]** Gated Feedback Refinement Network for Coarse-to-Fine Dense Semantic Image Labeling (2018.06 ) [[Paper]](https://arxiv.org/abs/1806.11266) 
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
