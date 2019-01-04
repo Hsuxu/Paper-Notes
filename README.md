@@ -5,9 +5,11 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ## Contents
 - [CV-DL Papers Reading List(Irregular updating)](#cv-dl-papers-reading-listirregular-updating)
   - [Contents](#contents)
-  - [Backbone Network](#backbone-network)
+  - [Image Recognition](#image-recognition)
+    - [Backbone Network](#backbone-network)
     - [Light Weight Network](#light-weight-network)
-  - [Semantic Segmentation](#semantic-segmentation)
+  - [Image Segmentation](#image-segmentation)
+    - [Semantic Segmentation](#semantic-segmentation)
     - [Real Time Segmentation](#real-time-segmentation)
   - [Object Detection](#object-detection)
   - [Image Caption](#image-caption)
@@ -28,7 +30,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
         
 ----
 
-## Backbone Network
+## Image Recognition
+### Backbone Network
 - **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NIPs 2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
 - **[ZFNet]** Visualizing and Understanding Convolutional Networks (2013.11 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1311.2901) [[TensorFlow]](https://github.com/InFoCusp/tf_cnnvis)
 - **[NIN]** Network In Network (2013.12 *ICLR 2014*) [[Paper]](https://arxiv.org/abs/1312.4400) [[TensorFlow(TFLearn)]](https://github.com/tflearn/tflearn/blob/master/examples/images/network_in_network.py)
@@ -64,8 +67,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ShuffleNet V2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design (2018.07 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1807.11164) [[PyTorch]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe) [[PyTorch]](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
  
 
-##  Semantic Segmentation
+##  Image Segmentation
 
+### Semantic Segmentation
 - **[FCN1]** Fully Convolutional Networks for Semantic Segmentation (2014.11,*CVPR 2015*) [[Paper1]](http://www.arxiv.org/abs/1411.4038) [[Paper1]](http://www.arxiv.org/abs/1605.06211) [[PyTorch]](https://github.com/wkentaro/pytorch-fcn) 
 - **[DeepLab V1]** Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (2014.12, *ICLR 2015*) [[Paper]](https://arxiv.org/abs/1412.7062) [[Caffe]](https://github.com/cdmh/deeplab-public)  
 - **[CRF-RNN]** Conditional Random Fields as Recurrent Neural Networks (2015.02, *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1502.03240) [[PyTorch]](https://github.com/torrvision/crfasrnn
