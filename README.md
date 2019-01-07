@@ -83,7 +83,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[SEC]** Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation (2016.03 *ECCV 2016*) [[Paper]](http://arxiv.org/abs/1603.06098) [[Caffe]](https://github.com/kolesman/SEC)
 - **[LRR]** Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation (2016.05 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1605.02264) [[Matlab]](https://github.com/golnazghiasi/LRR)
 - **[DeepLab V2]** DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (2016.06 *TPAMI 2018*) [[Paper]](https://arxiv.org/abs/1606.00915) [[Caffe]](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
-- **[DPN]** Deep Learning Markov Random Field for Semantic Segmentation (2016.06 *TPAMI 2017*) [[Paper2]](https://arxiv.org/abs/1606.07230)
+- **[DPN-MRF]** Deep Learning Markov Random Field for Semantic Segmentation (2016.06 *TPAMI 2017*) [[Paper2]](https://arxiv.org/abs/1606.07230)
 - **[RefineNet]** RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation (2016.11 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1611.06612) [[MatConvNet]](https://github.com/guosheng/refinenet) [[PyTorch]](https://github.com/thomasjpfan/pytorch_refinenet)
 - **[IFCN]** Improving Fully Convolution Network for Semantic Segmentation (2016.11) [[Paper]](https://arxiv.org/abs/1611.08986)
 - **[FRRN]** Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes (2016.11 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1611.08323) [[Theano]](https://github.com/TobyPDE/FRRN)
