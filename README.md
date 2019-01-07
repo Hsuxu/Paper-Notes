@@ -117,6 +117,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[LadderNet]** LadderNet: Multi-path networks based on U-Net for medical image segmentation [[Paper]](https://arxiv.org/abs/1810.07810) [[PyTorch]](https://github.com/juntang-zhuang/LadderNet)
 - **[PSANet]** PSANet: Point-wise Spatial Attention Network for Scene Parsing (2018 *ECCV 2018*) [[Paper]](https://hszhao.github.io/papers/eccv18_psanet.pdf) [[Project]](https://hszhao.github.io/projects/psanet/) [[Caffe]](https://github.com/hszhao/PSANet)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
+- **[ESPNetv2]** ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (2018.11 ) [[Paper]](https://arxiv.org/abs/1811.11431) [[PyTorch]](https://github.com/sacmehta/ESPNetv2)
 
 
 ### Real Time Segmentation
