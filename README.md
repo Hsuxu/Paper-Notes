@@ -119,12 +119,13 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
 - **[ESPNetv2]** ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (2018.11 ) [[Paper]](https://arxiv.org/abs/1811.11431) [[PyTorch]](https://github.com/sacmehta/ESPNetv2)
 - **[CCNet]** CCNet: Criss-Cross Attention for Semantic Segmentation (2018.11) [Paper]](https://arxiv.org/abs/1811.11721) [[PyTorch]](https://github.com/speedinghzl/CCNet)
+- **[DenseASPP]** for Semantic Segmentation in Street Scenes (*CVPR 2018*) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
 
 ### Real Time Segmentation
 - **[ENet]** ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation (2016.06 ) [[Paper]](https://arxiv.org/abs/1606.02147) [[Caffe]](https://github.com/TimoSaemann/ENet)
 - **[ICNet]** ICNet for Real-Time Semantic Segmentation on High-Resolution Images (2017.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1704.08545) [[Caffe]](https://github.com/hszhao/ICNet) [[PyTorch]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/icnet.py)
 - **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1803.06815) [[PyTorch]](https://github.com/sacmehta/ESPNet)
-- **[LW-RefineNet]** Light-Weight RefineNet for Real-Time Semantic Segmentation (2018.10 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1810.03272) [[PyTorch]](https://github.com/DrSleep/light-weight-refinenet)
+- **[LW-RefineNet]** Light-Weight RefineNet for Real-Time Semantic Segmentation (2018.10 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1810.03272) [[PyTorch]](https://github.com/DrSleep/light-weight-refinenet) [[PyTorch]](https://github.com/DeepMotionAIResearch/DenseASPP)
 
 ## Object Detection
 - **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
