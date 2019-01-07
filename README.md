@@ -116,11 +116,12 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
 - **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
 - **[LadderNet]** LadderNet: Multi-path networks based on U-Net for medical image segmentation [[Paper]](https://arxiv.org/abs/1810.07810) [[PyTorch]](https://github.com/juntang-zhuang/LadderNet)
-- **[PSANet]** PSANet: Point-wise Spatial Attention Network for Scene Parsing (2018 *ECCV 2018*) [[Paper]](https://hszhao.github.io/papers/eccv18_psanet.pdf) [[Project]](https://hszhao.github.io/projects/psanet/) [[Caffe]](https://github.com/hszhao/PSANet)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
 - **[ESPNetv2]** ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (2018.11 ) [[Paper]](https://arxiv.org/abs/1811.11431) [[PyTorch]](https://github.com/sacmehta/ESPNetv2)
 - **[CCNet]** CCNet: Criss-Cross Attention for Semantic Segmentation (2018.11) [Paper]](https://arxiv.org/abs/1811.11721) [[PyTorch]](https://github.com/speedinghzl/CCNet)
 - **[DenseASPP]** for Semantic Segmentation in Street Scenes (*CVPR 2018*) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
+- **[DRN]** Dense Relation Network: Learning Consistent and Context-Aware Representation for Semantic Image Segmentation (2018 *ICIP 2018*) [[Paper]](https://ieeexplore.ieee.org/document/8451830/) [[MXNet1]](https://github.com/zhuangyqin/DRN) [MXNet2]](https://github.com/tonysy/DRN-MXNet)
+- **[PSANet]** PSANet: Point-wise Spatial Attention Network for Scene Parsing (2018 *ECCV 2018*) [[Paper]](https://hszhao.github.io/papers/eccv18_psanet.pdf) [[Project]](https://hszhao.github.io/projects/psanet/) [[Caffe]](https://github.com/hszhao/PSANet)
 
 ### Real Time Segmentation
 - **[ENet]** ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation (2016.06 ) [[Paper]](https://arxiv.org/abs/1606.02147) [[Caffe]](https://github.com/TimoSaemann/ENet)
