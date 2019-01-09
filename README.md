@@ -19,7 +19,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
   - [Medical Image Analysis](#medical-image-analysis)
   - [Other Applications](#other-applications)
     - [Super Resolution](#super-resolution)
-  - [Training Skills](#training-skills)
+  - [Training Tricks](#training-tricks)
     - [Data Augmentation](#data-augmentation)
     - [Normalization](#normalization)
     - [Initialization](#initialization)
@@ -188,7 +188,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Super Resolution
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
-## Training Skills
+## Training Tricks
 ### Data Augmentation
 - **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification (2018.01) [[Paper]](https://arxiv.org/abs/1801.02929) 
 - **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data (2018.05) [[Paper]](https://arxiv.org/abs/1805.09501) 
@@ -202,12 +202,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Group Normalization]** Group Normalization (2018.03)  [[Paper]](https://arxiv.org/abs/1803.08494) [[TensorFlow]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
 - How Does Batch Normalization Help Optimization? (2018.05 *NeurIPS 2018*) [[Paper]](https://arxiv.org/abs/1805.11604)
 - **[Switchable Normalization]** Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[PyTorch]](https://github.com/switchablenorms/Switchable-Normalization)
+- Synchronized-BatchNorm [[PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
 
 ### Initialization
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015.02) [[Paper]](https://arxiv.org/abs/1502.01852)
 - Understanding the difficulty of training deep feedforward neural networks [[Paper]](http://proceedings.mlr.press/v9/glorot10a.html)
 - Training Techniques--An overview of gradient descent optimization algorithms [[url]](http://ruder.io/optimizing-gradient-descent/index.html)
-- Synchronized-BatchNorm [[PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
+- **[ZeroInit]** Residual Learning Without Normalization via Better Initialization (2018.09 *ICLR2019*) [[Paper]](https://openreview.net/forum?id=H1gsz30cKX)
+
+
 
 ## AutoML
 - Learning to Optimize(2016.06) [[Paper]](https://arxiv.org/abs/1606.01885)
