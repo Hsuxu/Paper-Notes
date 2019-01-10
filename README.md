@@ -176,13 +176,17 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ## Medical Image Analysis
+- **[Rician Normalization]** Normalization of T2W-MRI Prostate Images using Rician a priori (*Medical Imaging 2016: Computer-Aided Diagnosis*) [[Paper]](http://adsabs.harvard.edu/abs/2016SPIE.9785E..29L)
 - **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.05) [[Paper]](https://arxiv.org/abs/1505.04597) [[PyTorch]](https://github.com/milesial/Pytorch-UNet) [[PyTorch(Hsu)]](https://github.com/Hsuxu/carvana-pytorch-uNet)
 - **[V-Net]** V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation (2016.06) [[Paper]](https://arxiv.org/abs/1606.04797) [[PyTorch]](https://github.com/mattmacy/vnet.pytorch) [[PyTorch(Hsu)]](https://github.com/Hsuxu/Magic-VNet)
+- **[XmasNet]** Prostate Cancer Diagnosis using Deep Learning with 3D Multiparametric MRI (2017.03 *Medical Imaging: Computer-Aided Diagnosis 2017*) [[Paper]](https://arxiv.org/abs/1703.04078) 
 - **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
 - **[TDN]** Automated Detection of Clinically Significant Prostate Cancer in mp-MRI Images based on an End-to-End Deep Neural Network (2018.07 *TMI 2018*) [[Paper]](https://ieeexplore.ieee.org/iel7/42/8353174/08245842.pdf)
 - **[AnatomyNet]** AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy (2018.08) [[Paper]](https://arxiv.org/abs/1808.05238)
 - Improving Data Augmentation for Medical Image Segmentation (2018.12 *MIDL 2018*) [[Paper]](https://openreview.net/forum?id=rkBBChjiG)
+- Computer-aided diagnosis of prostate cancer using a deep convolutional neural network from multiparametric MRI (*JMRI 2018*) [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/29659067)
 - **[Ensemble]** A New Ensemble Learning Framework for 3D Biomedical Image Segmentation (2018.12 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1812.03945) [[code]](https://github.com/HaoZheng94/Ensemble)
+
 
 ## Other Applications
 ### Super Resolution
