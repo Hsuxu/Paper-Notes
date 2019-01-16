@@ -138,6 +138,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Fast R-CNN]** Fast R-CNN (2015.04 *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1504.08083) [[Caffe]](https://github.com/rbgirshick/fast-rcnn)
 - **[YOLO]** You Only Look Once: Unified, Real-Time Object Detection (2015.06 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1506.02640) [[Project]](https://pjreddie.com/darknet/yolo/) [[DarkNet]](https://github.com/pjreddie/darknet) [[PyTorch]](https://github.com/xiongzihua/pytorch-YOLO-v1)
 - **[SSD]**  SSD: Single Shot MultiBox Detector (2015.12 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1512.02325) [[Caffe]](https://arxiv.org/abs/1512.02325) [[PyTorch]](https://github.com/amdegroot/ssd.pytorch)
+- **[OHEM]**  Training Region-based Object Detectors with Online Hard Example Mining (2016.01 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1604.03540) [[Caffe]](https://github.com/abhi2610/ohem) 
 - **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.07) [[Paper]](https://arxiv.org/abs/1708.02002)
 - **[DSOD]** DSOD: Learning Deeply Supervised Object Detectors from Scratch (2017.07 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.01241) [[Caffe with SSD]](https://github.com/szq0214/DSOD) [[PyTorch]](https://github.com/uoip/SSD-variants) [[MXNet]](https://github.com/eureka7mt/mxnet-dsod)
