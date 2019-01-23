@@ -62,7 +62,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ShuffleNet V1]** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (2017.07) [[Paper]](https://arxiv.org/abs/1707.01083) [[PyTorch]](https://github.com/jaxony/ShuffleNet)
 - **[IGCV1]** Interleaved Group Convolutions for Deep Neural Networks (20017.07 *ICCV 2017)* [[Paper]](https://arxiv.org/abs/1707.02725) [[MXNet]](https://github.com/hellozting/InterleavedGroupConvolutions)
 - **[MobileNet V2]** MobileNetV2: Inverted Residuals and Linear Bottlenecks (2018.01 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1801.04381) [[PyTorch]](https://github.com/tonylins/pytorch-mobilenet-v2)
-- **[ENAS]** Efficient Neural Architecture Search via Parameter Sharing (2018.02) [[Paper]](https://arxiv.org/abs/1802.03268) [[TensorFlow]](https://github.com/melodyguan/enas) [[PyTorch]](https://github.com/carpedm20/ENAS-pytorch)
+- **[ENAS]** Efficient Neural Architecture Search via Parameter Sharing (2018.02 *ICML 2018*) [[Paper]](https://arxiv.org/abs/1802.03268) [[TensorFlow]](https://github.com/melodyguan/enas) [[PyTorch]](https://github.com/carpedm20/ENAS-pytorch)
 - **[SqueezeNext]** SqueezeNext: Hardware-Aware Neural Network Design (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.10615) [[Caffe]](https://github.com/amirgholami/SqueezeNext) [[PyTorch]](https://github.com/luuuyi/SqueezeNext.PyTorch)
 - **[IGCV2]** IGCV2: Interleaved Structured Sparse Convolutional Neural Networks (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.06202) [[MXNet]](https://github.com/homles11/IGCV3) 
 - **[IGCV3]** IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks (2018.06 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1806.00178) [[MXNet]](https://github.com/homles11/IGCV3) 
@@ -235,7 +235,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[NASNet]** Learning Transferable Architectures for Scalable Image Recognition (2017.07) [[Paper]](https://arxiv.org/abs/1707.07012) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet)
 - Hierarchical Representations for Efficient Architecture Search (2017.11 *ICLR 2018*) [[Paper]](https://arxiv.org/abs/1711.00436)
 - **[AmoebaNet-A]** Regularized Evolution for Image Classifier Architecture Search (2018.02) [[Paper]](https://arxiv.org/abs/1802.01548)
-- **[ENAS]** Efficient Neural Architecture Search via Parameter Sharing (2018.02) [[Paper]](https://arxiv.org/abs/1802.03268) [[TensorFlow]](https://github.com/melodyguan/enas) [[PyTorch]](https://github.com/carpedm20/ENAS-pytorch)
+- **[ENAS]** Efficient Neural Architecture Search via Parameter Sharing (2018.02 *ICML 2018*) [[Paper]](https://arxiv.org/abs/1802.03268) [[TensorFlow]](https://github.com/melodyguan/enas) [[PyTorch]](https://github.com/carpedm20/ENAS-pytorch)
 
 ## Dataset and Contest
 ### Dataset
