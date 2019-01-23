@@ -68,15 +68,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ShuffleNet V2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design (2018.07 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1807.11164) [[PyTorch]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe) [[PyTorch]](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 - **[ESPNetv2]** ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (2018.11 ) [[Paper]](https://arxiv.org/abs/1811.11431) [[PyTorch]](https://github.com/sacmehta/ESPNetv2) 
 
-##  Image Segmentation
+## Image Segmentation
 
 ### Semantic Segmentation
 - **[FCN1]** Fully Convolutional Networks for Semantic Segmentation (2014.11,*CVPR 2015*) [[Paper1]](http://www.arxiv.org/abs/1411.4038) [[Paper1]](http://www.arxiv.org/abs/1605.06211) [[PyTorch]](https://github.com/wkentaro/pytorch-fcn) 
-- **[DeepLab V1]** Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (2014.12, *ICLR 2015*) [[Paper]](https://arxiv.org/abs/1412.7062) [[Caffe]](https://github.com/cdmh/deeplab-public)  
+- **[DeepLab V1]** Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (2014.12, *ICLR 2015*) [[Paper]](https://arxiv.org/abs/1412.7062) [[Caffe]](https://github.com/cdmh/deeplab-public) 
 - **[CRF-RNN]** Conditional Random Fields as Recurrent Neural Networks (2015.02, *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1502.03240) [[PyTorch]](https://github.com/torrvision/crfasrnn
 - **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.05, *MICCAI 2015*) [[Paper]](https://arxiv.org/abs/1505.04597) [[PyTorch]](https://github.com/milesial/Pytorch-UNet) [[PyTorch_Hsu]](https://github.com/Hsuxu/carvana-pytorch-uNet)
-- **[ParseNet]** ParseNet: Looking Wider to See Better (2015.06, *ICLR 2016*)  [[Paper]](https://arxiv.org/abs/1506.04579) [[Caffe]](https://github.com/debidatta/caffe-parsenet) 
-- **[DAG]** DAG-Recurrent Neural Networks For Scene Labeling (2015.09, *CVPR 2016*)  [[Paper]](https://arxiv.org/abs/1509.00552) [[PyTorch]](https://github.com/sallymmx/DAG-RNN) 
+- **[ParseNet]** ParseNet: Looking Wider to See Better (2015.06, *ICLR 2016*) [[Paper]](https://arxiv.org/abs/1506.04579) [[Caffe]](https://github.com/debidatta/caffe-parsenet) 
+- **[DAG]** DAG-Recurrent Neural Networks For Scene Labeling (2015.09, *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1509.00552) [[PyTorch]](https://github.com/sallymmx/DAG-RNN) 
 - **[DPN]** Semantic Image Segmentation via Deep Parsing Network (2015.09 *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1509.02634) [[Project]](https://liuziwei7.github.io/projects/DPN.html)
 - **[SegNet]** SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation (2015.11, *PAMI 2016*) [[Paper]](https://arxiv.org/abs/1511.00561) [[Caffe]](https://github.com/alexgkendall/caffe-segnet) [[TensoFlow]](https://github.com/tkuanlun350/Tensorflow-SegNet) [[PyTorch]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/segnet.py)
 - **[Attention to Scale]** Attention to Scale: Scale-aware Semantic Image Segmentation Liang-Chieh (2015.11 *CVPR 2016*) [[Paper]](http://arxiv.org/abs/1511.03339) [[Caffe]](https://bitbucket.org/aquariusjay/deeplab-public-ver2) [[Project]](http://lijiancheng0614.github.io/2016/11/03/2016_11_03_Attention_to_Scale/)
@@ -115,7 +115,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[PAG]** Pixel-wise Attentional Gating for Parsimonious Pixel Labeling (2018.05 *WACV 2019*) [[Paper]](https://arxiv.org/abs/1805.01556)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[G-FRNet]** Gated Feedback Refinement Network for Coarse-to-Fine Dense Semantic Image Labeling (2018.06) [[Paper]](https://arxiv.org/abs/1806.11266) 
-- **[BiSeNet]** BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.00897)  [[PyTorch]](https://github.com/ooooverflow/BiSeNet)
+- **[BiSeNet]** BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.00897) [[PyTorch]](https://github.com/ooooverflow/BiSeNet)
 - **[OCNet]** OCNet: Object Context Network for Scene Parsing (2018.09 ) [[Paper]](https://arxiv.org/abs/1809.00916) [[PyTorch]](https://github.com/PkuRainBow/OCNet.pytorch)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
 - **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
@@ -138,9 +138,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[RCNN]** Rich feature hierarchies for accurate object detection and semantic segmentation(2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1311.2524) [[Matlab]](https://github.com/rbgirshick/rcnn)
 - **[Fast R-CNN]** Fast R-CNN (2015.04 *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1504.08083) [[Caffe]](https://github.com/rbgirshick/fast-rcnn)
 - **[YOLO]** You Only Look Once: Unified, Real-Time Object Detection (2015.06 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1506.02640) [[Project]](https://pjreddie.com/darknet/yolo/) [[DarkNet]](https://github.com/pjreddie/darknet) [[PyTorch]](https://github.com/xiongzihua/pytorch-YOLO-v1)
-- **[SSD]**  SSD: Single Shot MultiBox Detector (2015.12 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1512.02325) [[Caffe]](https://arxiv.org/abs/1512.02325) [[PyTorch]](https://github.com/amdegroot/ssd.pytorch)
-- **[OHEM]**  Training Region-based Object Detectors with Online Hard Example Mining (2016.01 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1604.03540) [[Caffe]](https://github.com/abhi2610/ohem) 
-- **[R-FCN]**  R-FCN: Object Detection via Region-based Fully Convolutional Networks (2016.05 *NIPs 2016*) [[Paper]](https://arxiv.org/abs/1605.06409) [[Caffe]](https://github.com/daijifeng001/R-FCN)
+- **[SSD]** SSD: Single Shot MultiBox Detector (2015.12 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1512.02325) [[Caffe]](https://arxiv.org/abs/1512.02325) [[PyTorch]](https://github.com/amdegroot/ssd.pytorch)
+- **[OHEM]** Training Region-based Object Detectors with Online Hard Example Mining (2016.01 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1604.03540) [[Caffe]](https://github.com/abhi2610/ohem) 
+- **[R-FCN]** R-FCN: Object Detection via Region-based Fully Convolutional Networks (2016.05 *NIPs 2016*) [[Paper]](https://arxiv.org/abs/1605.06409) [[Caffe]](https://github.com/daijifeng001/R-FCN)
 - **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.07) [[Paper]](https://arxiv.org/abs/1708.02002)
 - **[DSOD]** DSOD: Learning Deeply Supervised Object Detectors from Scratch (2017.07 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.01241) [[Caffe with SSD]](https://github.com/szq0214/DSOD) [[PyTorch]](https://github.com/uoip/SSD-variants) [[MXNet]](https://github.com/eureka7mt/mxnet-dsod)
@@ -148,6 +148,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet) 
 - **[Survey]** Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
 - **[Training From Scratch]** Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
+- **[GHM_Detection]** Gradient Harmonized Single-stage Detector (2018.11 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1811.05181) [[PyTorch]](https://github.com/libuyu/GHM_Detection)
 
 
 ## Image Caption
@@ -159,7 +160,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ## Generative Adversarial Networks
-- **[MUNIT]** Multimodal Unsupervised Image-to-Image Translation (2018.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1804.04732)  [[PyTorch]](https://github.com/NVlabs/MUNIT)
+- **[MUNIT]** Multimodal Unsupervised Image-to-Image Translation (2018.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1804.04732) [[PyTorch]](https://github.com/NVlabs/MUNIT)
 - **[SAGAN]** Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[PyTorch]](https://github.com/heykeetae/Self-Attention-GAN) 
 - **[DIRT]** Diverse Image-to-Image Translation via Disentangled Representations(2018.08) [[Paper]](https://arxiv.org/abs/1808.00948) [[PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
 - **[VID2VID]** Video-to-Video Synthesis(2018.08) [[Paper]](https://arxiv.org/abs/1808.06601) [[PyTorch]](https://github.com/NVIDIA/vid2vid)
@@ -205,12 +206,12 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data (2018.05) [[Paper]](https://arxiv.org/abs/1805.09501) 
 - **[Albumentations]** Albumentations: fast and flexible image augmentations (2018.09) [[Paper]](https://arxiv.org/abs/1809.06839)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
-  
+ 
 ### Normalization
 - **[Batch Normalization]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167)
 - **[Layer Normalization]** Layer Normalization(2016.07) [[Paper]](https://arxiv.org/abs/1607.06450)
 - **[Instance Normalization]** Instance Normalization: The Missing Ingredient for Fast Stylization (2016.07) [[Paper]](https://arxiv.org/abs/1607.08022)
-- **[Group Normalization]** Group Normalization (2018.03)  [[Paper]](https://arxiv.org/abs/1803.08494) [[TensorFlow]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
+- **[Group Normalization]** Group Normalization (2018.03) [[Paper]](https://arxiv.org/abs/1803.08494) [[TensorFlow]](https://github.com/shaohua0116/Group-Normalization-Tensorflow)
 - How Does Batch Normalization Help Optimization? (2018.05 *NeurIPS 2018*) [[Paper]](https://arxiv.org/abs/1805.11604)
 - **[Switchable Normalization]** Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[PyTorch]](https://github.com/switchablenorms/Switchable-Normalization)
 - Synchronized-BatchNorm [[PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
@@ -241,7 +242,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [Cityscapes](https://www.cityscapes-dataset.com/)<!-- Large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames. -->
 - [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)<!-- The NYU-Depth V2 data set is comprised of video sequences from a variety of indoor scenes as recorded by both the RGB and Depth cameras from the Microsoft Kinect. -->
 - [PASCAL-Context](https://cs.stanford.edu/~roozbeh/pascal-context/)<!-- This dataset is a set of additional annotations for PASCAL VOC 2010. It goes beyond the original PASCAL semantic segmentation task by providing annotations for the whole scene. The statistics section has a full list of 400+ labels. -->
-- [SUNRGBD](http://rgbd.cs.princeton.edu/)<!-- Dataset is captured by four different sensors and contains 10,335 RGB-D images, at a similar scale as PASCAL VOC. The whole dataset is densely annotated and includes 146,617 2D polygons and 64,595 3D bounding boxes with accurate object orientations, as well as a 3D room layout and scene category for each image.  -->
+- [SUNRGBD](http://rgbd.cs.princeton.edu/)<!-- Dataset is captured by four different sensors and contains 10,335 RGB-D images, at a similar scale as PASCAL VOC. The whole dataset is densely annotated and includes 146,617 2D polygons and 64,595 3D bounding boxes with accurate object orientations, as well as a 3D room layout and scene category for each image. -->
 - [ADE20k](http://groups.csail.mit.edu/vision/datasets/ADE20K/)<!-- ADE20K Dataset contains more than 20K scene-centric images exhaustively annotated with objects and object parts. Specifically, the benchmark is divided into 20K images for training, 2K images for validation, and another batch of held-out images for testing. There are totally 150 semantic categories included for evaluation, which include stuffs like sky, road, grass, and discrete objects like person, car, bed. Note that there are non-uniform distribution of objects occuring in the images, mimicking a more natural object occurrence in daily scene. -->
 - [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org): 
 <!-- Grand Challenges in Biomedical Image Analysis -->
