@@ -34,7 +34,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ## Image Recognition
 ### Backbone Network
-- **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NIPs 2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
+- **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NeurIPS  2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
 - **[ZFNet]** Visualizing and Understanding Convolutional Networks (2013.11 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1311.2901) [[TensorFlow]](https://github.com/InFoCusp/tf_cnnvis)
 - **[NIN]** Network In Network (2013.12 *ICLR 2014*) [[Paper]](https://arxiv.org/abs/1312.4400) [[TensorFlow(TFLearn)]](https://github.com/tflearn/tflearn/blob/master/examples/images/network_in_network.py)
 - **[SPPNet]** Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (2014.6 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1406.4729)
@@ -113,7 +113,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[DFN]** Learning a Discriminative Feature Network for Semantic Segmentation (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.09337) [[TensorFlow]](https://github.com/whitesockcat/Discriminative-Feature-Network)
 - **[PAG]** Pixel-wise Attentional Gating for Parsimonious Pixel Labeling (2018.05 *WACV 2019*) [[Paper]](https://arxiv.org/abs/1805.01556)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
-- **[Probabilistic U-Net]** A Probabilistic U-Net for Segmentation of Ambiguous Images (2018.06 *NIPs 2018*) [[TensorFlow]](https://github.com/SimonKohl/probabilistic_unet)
+- **[Probabilistic U-Net]** A Probabilistic U-Net for Segmentation of Ambiguous Images (2018.06 *NeurIPS  2018*) [[TensorFlow]](https://github.com/SimonKohl/probabilistic_unet)
 - **[G-FRNet]** Gated Feedback Refinement Network for Coarse-to-Fine Dense Semantic Image Labeling (2018.06) [[Paper]](https://arxiv.org/abs/1806.11266) 
 - **[OCNet]** OCNet: Object Context Network for Scene Parsing (2018.09 ) [[Paper]](https://arxiv.org/abs/1809.00916) [[PyTorch]](https://github.com/PkuRainBow/OCNet.pytorch)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
@@ -156,7 +156,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[YOLO]** You Only Look Once: Unified, Real-Time Object Detection (2015.06 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1506.02640) [[Project]](https://pjreddie.com/darknet/yolo/) [[DarkNet]](https://github.com/pjreddie/darknet) [[PyTorch]](https://github.com/xiongzihua/pytorch-YOLO-v1)
 - **[SSD]** SSD: Single Shot MultiBox Detector (2015.12 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1512.02325) [[Caffe]](https://arxiv.org/abs/1512.02325) [[PyTorch]](https://github.com/amdegroot/ssd.pytorch)
 - **[OHEM]** Training Region-based Object Detectors with Online Hard Example Mining (2016.01 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1604.03540) [[Caffe]](https://github.com/abhi2610/ohem) 
-- **[R-FCN]** R-FCN: Object Detection via Region-based Fully Convolutional Networks (2016.05 *NIPs 2016*) [[Paper]](https://arxiv.org/abs/1605.06409) [[Caffe]](https://github.com/daijifeng001/R-FCN)
+- **[R-FCN]** R-FCN: Object Detection via Region-based Fully Convolutional Networks (2016.05 *NeurIPS 2016*) [[Paper]](https://arxiv.org/abs/1605.06409) [[Caffe]](https://github.com/daijifeng001/R-FCN)
 - **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.07) [[Paper]](https://arxiv.org/abs/1708.02002)
 - **[DSOD]** DSOD: Learning Deeply Supervised Object Detectors from Scratch (2017.07 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.01241) [[Caffe with SSD]](https://github.com/szq0214/DSOD) [[PyTorch]](https://github.com/uoip/SSD-variants) [[MXNet]](https://github.com/eureka7mt/mxnet-dsod)
