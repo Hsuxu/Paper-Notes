@@ -140,7 +140,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Panoptic Segmentation
 - **[PS]** Panoptic Segmentation (2018.01 ) [[Paper]](https://arxiv.org/abs/1801.00868) 
 - **[Semi-Supervised PS]** Weakly- and Semi-Supervised Panoptic Segmentation (2018.08 *ECCV 2018* ) [[Paper]](https://arxiv.org/abs/1808.03575) [[Matlab]](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)
+- **[JSIS-Net]** Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network (2018.09) [[Paper]](https://arxiv.org/abs/1809.02110) 
+- **[TASCNet]** Learning to Fuse Things and Stuff (2018.12) [[Paper]](https://arxiv.org/abs/1812.01192)
 - Interactive Full Image Segmentation (2018.12) [[Paper]](https://arxiv.org/abs/1812.01888)
+- **[AUNet]** Attention-guided Unified Network for Panoptic Segmentation (2018.12 ) [[Paper]](https://arxiv.org/abs/1812.03904)
 - **[PS FPN]** Panoptic Feature Pyramid Networks (2019.01) [[Paper]](https://arxiv.org/abs/1901.02446)
 - **[UPSNet]** UPSNet: A Unified Panoptic Segmentation Network (2019.01) [[Paper]](https://arxiv.org/abs/1901.03784) 
 
