@@ -30,9 +30,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Dataset](#dataset)
     - [Contest](#contest)
         
-----
-
+---
 ## Image Recognition
+
 ### Backbone Network
 - **[AlexNet]** ImageNet classification with deep convolutional neural networks(2012 *NeurIPS  2012*) [[Paper]](http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf) [[PyTorch]](https://github.com/pytorch/vision/blob/master/torchvision/models/alexnet.py)
 - **[ZFNet]** Visualizing and Understanding Convolutional Networks (2013.11 *ECCV 2014*) [[Paper]](https://arxiv.org/abs/1311.2901) [[TensorFlow]](https://github.com/InFoCusp/tf_cnnvis)
@@ -71,6 +71,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ShuffleNet V2]** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design (2018.07 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1807.11164) [[PyTorch]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe) [[PyTorch]](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 - **[ESPNetv2]** ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (2018.11 ) [[Paper]](https://arxiv.org/abs/1811.11431) [[PyTorch]](https://github.com/sacmehta/ESPNetv2) 
 
+---
 ## Image Segmentation
 
 ### Semantic Segmentation
@@ -137,7 +138,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
 - **[PRMs]** Weakly Supervised Instance Segmentation Using Class Peak Response (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.00880) [[PyTorch]](https://github.com/ZhouYanzhao/PRM)
 
-
 ### Panoptic Segmentation
 - **[PS]** Panoptic Segmentation (2018.01 ) [[Paper]](https://arxiv.org/abs/1801.00868) 
 - **[Semi-Supervised PS]** Weakly- and Semi-Supervised Panoptic Segmentation (2018.08 *ECCV 2018* ) [[Paper]](https://arxiv.org/abs/1808.03575) [[Matlab]](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)
@@ -149,7 +149,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[UPSNet]** UPSNet: A Unified Panoptic Segmentation Network (2019.01) [[Paper]](https://arxiv.org/abs/1901.03784) 
 
 
-
+---
 ## Object Detection
 - **[RCNN]** Rich feature hierarchies for accurate object detection and semantic segmentation(2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1311.2524) [[Matlab]](https://github.com/rbgirshick/rcnn)
 - **[Fast R-CNN]** Fast R-CNN (2015.04 *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1504.08083) [[Caffe]](https://github.com/rbgirshick/fast-rcnn)
@@ -166,7 +166,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Training From Scratch]** Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
 - **[GHM_Detection]** Gradient Harmonized Single-stage Detector (2018.11 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1811.05181) [[PyTorch]](https://github.com/libuyu/GHM_Detection)
 
-
+---
 ## Image Caption
 - **[Show, Attend and Tell]** Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[Paper]](https://arxiv.org/abs/1502.03044) [[TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 - Image Captioning with Semantic Attention(2016) [[Paper]](https://arxiv.org/abs/1603.03925) [[Torch]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
@@ -174,7 +174,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Convolutional Image Captioning(2017) [[Paper]](https://arxiv.org/abs/1711.09151) [[PyTorch]](https://github.com/aditya12agd5/convcap)
 - CNN+CNN: Convolutional Decoders for Image Captioning (2018) [[Paper]](https://arxiv.org/abs/1805.09019)
 
-
+---
 ## Generative Adversarial Networks
 - **[MUNIT]** Multimodal Unsupervised Image-to-Image Translation (2018.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1804.04732) [[PyTorch]](https://github.com/NVlabs/MUNIT)
 - **[SAGAN]** Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[PyTorch]](https://github.com/heykeetae/Self-Attention-GAN) 
@@ -183,6 +183,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[BigGAN]** Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018.09) [[Paper]](https://arxiv.org/abs/1809.11096) [[PyTorch]](https://github.com/AaronLeong/BigGAN-pytorch)
 - **[styleGAN]** A Style-Based Generator Architecture for Generative Adversarial Networks (2018.12) [[Paper]](https://arxiv.org/abs/1812.04948) 
 
+---
 ## Attention Mechanism
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015.02) [[Paper]](https://arxiv.org/abs/1502.03044) [[TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 - Image Captioning with Semantic Attention(2016.03) [[Paper]](https://arxiv.org/abs/1603.03925) [[Torch]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
@@ -194,11 +195,11 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Learning Visual Question Answering by Bootstrapping Hard Attention (2018.08) [[Paper]](https://arxiv.org/abs/1808.00300) [[PyTorch]](https://github.com/gnouhp/PyTorch-AdaHAN) (Note: Hard-Attention)
 - Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08) [[Paper]](https://arxiv.org/abs/1808.03867) [[PyTorch]](https://github.com/elbayadm/attn2d)
 
-
+---
 ## Natural Language Processing Related
 - **[Pervasive Attention]** Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018.08 *CoNLL 2018*) [[Paper]](https://arxiv.org/abs/1808.03867) [[PyTorch]](https://github.com/elbayadm/attn2d)
 
-
+---
 ## Medical Image Analysis
 - **[Rician Normalization]** Normalization of T2W-MRI Prostate Images using Rician a priori (*Medical Imaging 2016: Computer-Aided Diagnosis*) [[Paper]](http://adsabs.harvard.edu/abs/2016SPIE.9785E..29L)
 - **[U-Net]** U-Net: Convolutional Networks for Biomedical Image Segmentation (2015.05) [[Paper]](https://arxiv.org/abs/1505.04597) [[PyTorch]](https://github.com/milesial/Pytorch-UNet) [[PyTorch(Hsu)]](https://github.com/Hsuxu/carvana-pytorch-uNet)
@@ -211,11 +212,13 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - Computer-aided diagnosis of prostate cancer using a deep convolutional neural network from multiparametric MRI (*JMRI 2018*) [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/29659067)
 - **[Ensemble]** A New Ensemble Learning Framework for 3D Biomedical Image Segmentation (2018.12 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1812.03945) [[code]](https://github.com/HaoZheng94/Ensemble)
 
-
+---
 ## Other Applications
+
 ### Super Resolution
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 
+---
 ## Training Tricks
 ### Data Augmentation
 - **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification (2018.01) [[Paper]](https://arxiv.org/abs/1801.02929) 
@@ -223,6 +226,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Albumentations]** Albumentations: fast and flexible image augmentations (2018.09) [[Paper]](https://arxiv.org/abs/1809.06839)
 - **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
  
+
 ### Normalization
 - **[Batch Normalization]** Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) [[Paper]](https://arxiv.org/abs/1502.03167)
 - **[Layer Normalization]** Layer Normalization(2016.07) [[Paper]](https://arxiv.org/abs/1607.06450)
@@ -232,6 +236,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Switchable Normalization]** Differentiable Learning-to-Normalize via Switchable Normalization (2018.06) [[Paper]](https://arxiv.org/abs/1806.10779) [[PyTorch]](https://github.com/switchablenorms/Switchable-Normalization)
 - Synchronized-BatchNorm [[PyTorch]](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch) [[MXNet]](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
 
+
 ### Initialization
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015.02) [[Paper]](https://arxiv.org/abs/1502.01852)
 - Understanding the difficulty of training deep feedforward neural networks [[Paper]](http://proceedings.mlr.press/v9/glorot10a.html)
@@ -239,7 +244,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ZeroInit]** Residual Learning Without Normalization via Better Initialization (2018.09 *ICLR2019*) [[Paper]](https://openreview.net/forum?id=H1gsz30cKX)
 
 
-
+---
 ## AutoML
 - Learning to Optimize(2016.06) [[Paper]](https://arxiv.org/abs/1606.01885)
 - Neural Architecture Search with Reinforcement Learning (2016.11) [[Paper]](https://arxiv.org/abs/1611.01578)
@@ -252,6 +257,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[AmoebaNet-A]** Regularized Evolution for Image Classifier Architecture Search (2018.02) [[Paper]](https://arxiv.org/abs/1802.01548)
 - **[ENAS]** Efficient Neural Architecture Search via Parameter Sharing (2018.02 *ICML 2018*) [[Paper]](https://arxiv.org/abs/1802.03268) [[TensorFlow]](https://github.com/melodyguan/enas) [[PyTorch]](https://github.com/carpedm20/ENAS-pytorch)
 
+---
 ## Dataset and Contest
 ### Dataset
 - [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/)<!-- The main goal of this challenge is to recognize objects from a number of visual object classes in realistic scenes (i.e. not pre-segmented objects). It is fundamentally a supervised learning learning problem in that a training set of labelled images is provided. -->
@@ -263,5 +269,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org): 
 <!-- Grand Challenges in Biomedical Image Analysis -->
 
+---
 ### Contest
 - [AI Challenger](https://challenger.ai/)
