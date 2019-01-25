@@ -10,7 +10,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Light Weight Network](#light-weight-network)
   - [Image Segmentation](#image-segmentation)
     - [Semantic Segmentation](#semantic-segmentation)
-    - [Real Time Segmentation](#real-time-segmentation)
+      - [Real Time Segmentation](#real-time-segmentation)
+    - [Instance Segmentaion](#instance-segmentaion)
+    - [Panoptic Segmentation](#panoptic-segmentation)
   - [Object Detection](#object-detection)
   - [Image Caption](#image-caption)
   - [Generative Adversarial Networks](#generative-adversarial-networks)
@@ -103,20 +105,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Segmentation-aware]** Segmentation-Aware Convolutional Networks Using Local Attention Masks (2017.08 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.04607) [[Caffe]](https://github.com/aharley/segaware)
 - **[SDN]** Stacked Deconvolutional Network for Semantic Segmentation (2017.08 ) [[Paper]](https://arxiv.org/abs/1708.04943)
 - **[Seg Everything]** Learning to Segment Every Thing (2017.11 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1711.10370) [[Caffe2]](https://github.com/ronghanghu/seg_every_thing)
-- **[MaskLab]** MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.04837) [[Project]](https://vitalab.github.io/deep-learning/2018/07/26/masklab.html)
-- **[PSeg]** Panoptic Segmentation (2018.01 ) [[Paper]](https://arxiv.org/abs/1801.00868) 
 - **[DeepLab V3+]** Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (2018.02) [[Paper]](https://arxiv.org/abs/1802.02611) [[TensorFlow]](https://github.com/rishizek/tensorflow-deeplab-v3-plus) [[TensorFlow(official)]](https://github.com/tensorflow/models/tree/master/research/deeplab) [[PyTorch]](https://github.com/jfzhang95/pytorch-deeplab-xception)
 - **[R2U-Net]** Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation (2018.02) [[Paper]](https://arxiv.org/abs/1802.06955) [[PyTorch]](https://github.com/LeeJunHyun/Image_Segmentation)
 - **[AdaptSegNet]** Learning to Adapt Structured Output Space for Semantic Segmentation (2018.02 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1802.10349) [[PyTorch ]](https://github.com/wasidennis/AdaptSegNet)
-- **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
-- **[PRMs]** Weakly Supervised Instance Segmentation Using Class Peak Response (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.00880) [[PyTorch]](https://github.com/ZhouYanzhao/PRM)
 - **[Attention U-Net]** Attention U-Net: Learning Where to Look for the Pancreas (2018.04 ) [[Paper]](https://arxiv.org/abs/1804.03999) [[PyTorch]](https://github.com/ozan-oktay/Attention-Gated-Networks)
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
 - **[DFN]** Learning a Discriminative Feature Network for Semantic Segmentation (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.09337) [[TensorFlow]](https://github.com/whitesockcat/Discriminative-Feature-Network)
 - **[PAG]** Pixel-wise Attentional Gating for Parsimonious Pixel Labeling (2018.05 *WACV 2019*) [[Paper]](https://arxiv.org/abs/1805.01556)
 - **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
 - **[G-FRNet]** Gated Feedback Refinement Network for Coarse-to-Fine Dense Semantic Image Labeling (2018.06) [[Paper]](https://arxiv.org/abs/1806.11266) 
-- **[BiSeNet]** BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.00897) [[PyTorch]](https://github.com/ooooverflow/BiSeNet)
 - **[OCNet]** OCNet: Object Context Network for Scene Parsing (2018.09 ) [[Paper]](https://arxiv.org/abs/1809.00916) [[PyTorch]](https://github.com/PkuRainBow/OCNet.pytorch)
 - **[DANet]** Dual Attention Network for Scene Segmentation (2018.09 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1809.02983) [[PyTorch]](https://github.com/junfu1115/DANet)
 - **[DPC]** Searching for Efficient Multi-Scale Architectures for Dense Image Prediction (2018.09) [[Paper]](https://arxiv.org/abs/1809.04184) [[TensorFlow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
@@ -127,13 +124,27 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[DenseASPP]** for Semantic Segmentation in Street Scenes (*CVPR 2018*) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
 - **[DRN]** Dense Relation Network: Learning Consistent and Context-Aware Representation for Semantic Image Segmentation (2018 *ICIP 2018*) [[Paper]](https://ieeexplore.ieee.org/document/8451830/) [[MXNet1]](https://github.com/zhuangyqin/DRN) [MXNet2]](https://github.com/tonysy/DRN-MXNet)
 - **[PSANet]** PSANet: Point-wise Spatial Attention Network for Scene Parsing (2018 *ECCV 2018*) [[Paper]](https://hszhao.github.io/papers/eccv18_psanet.pdf) [[Project]](https://hszhao.github.io/projects/psanet/) [[Caffe]](https://github.com/hszhao/PSANet)
-- **[Panoptic FPN]** Panoptic Feature Pyramid Networks (2019.01) [[Paper]](https://arxiv.org/abs/1901.02446)
 
-### Real Time Segmentation
+#### Real Time Segmentation
 - **[ENet]** ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation (2016.06 ) [[Paper]](https://arxiv.org/abs/1606.02147) [[Caffe]](https://github.com/TimoSaemann/ENet)
 - **[ICNet]** ICNet for Real-Time Semantic Segmentation on High-Resolution Images (2017.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1704.08545) [[Caffe]](https://github.com/hszhao/ICNet) [[PyTorch]](https://github.com/meetshah1995/pytorch-semseg/blob/master/ptsemseg/models/icnet.py)
 - **[ESPNet]** ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation (2018.03 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1803.06815) [[PyTorch]](https://github.com/sacmehta/ESPNet)
 - **[LW-RefineNet]** Light-Weight RefineNet for Real-Time Semantic Segmentation (2018.10 *BMVC 2018*) [[Paper]](https://arxiv.org/abs/1810.03272) [[PyTorch]](https://github.com/DrSleep/light-weight-refinenet) [[PyTorch]](https://github.com/DeepMotionAIResearch/DenseASPP)
+
+### Instance Segmentaion
+- **[MaskLab]** MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.04837) [[Project]](https://vitalab.github.io/deep-learning/2018/07/26/masklab.html)
+- **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
+- **[PRMs]** Weakly Supervised Instance Segmentation Using Class Peak Response (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.00880) [[PyTorch]](https://github.com/ZhouYanzhao/PRM)
+
+
+### Panoptic Segmentation
+- **[PS]** Panoptic Segmentation (2018.01 ) [[Paper]](https://arxiv.org/abs/1801.00868) 
+- **[Semi-Supervised PS]** Weakly- and Semi-Supervised Panoptic Segmentation (2018.08 *ECCV 2018* ) [[Paper]](https://arxiv.org/abs/1808.03575) [[Matlab]](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)
+- Interactive Full Image Segmentation (2018.12) [[Paper]](https://arxiv.org/abs/1812.01888)
+- **[PS FPN]** Panoptic Feature Pyramid Networks (2019.01) [[Paper]](https://arxiv.org/abs/1901.02446)
+- **[UPSNet]** UPSNet: A Unified Panoptic Segmentation Network (2019.01) [[Paper]](https://arxiv.org/abs/1901.03784) 
+
+
 
 ## Object Detection
 - **[RCNN]** Rich feature hierarchies for accurate object detection and semantic segmentation(2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1311.2524) [[Matlab]](https://github.com/rbgirshick/rcnn)
