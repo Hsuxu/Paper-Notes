@@ -165,6 +165,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Survey]** Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
 - **[Training From Scratch]** Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
 - **[GHM_Detection]** Gradient Harmonized Single-stage Detector (2018.11 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1811.05181) [[PyTorch]](https://github.com/libuyu/GHM_Detection)
+- **[BoF]** Bag of Freebies for Training Object Detection Neural Networks (2019.02) [[Paper]](https://arxiv.org/abs/1902.04103) [[MxNet]](https://github.com/dmlc/gluon-cv)
 
 ---
 ## Image Caption
