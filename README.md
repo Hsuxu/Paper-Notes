@@ -221,6 +221,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ---
 ## Training Tricks
+- **[Bag of Tricks]** Bag of Tricks for Image Classification with Convolutional Neural Networks (2018.12) [[Paper]](https://arxiv.org/abs/1812.01187)
 ### Data Augmentation
 - **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification (2018.01) [[Paper]](https://arxiv.org/abs/1801.02929) 
 - **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data (2018.05) [[Paper]](https://arxiv.org/abs/1805.09501) 
