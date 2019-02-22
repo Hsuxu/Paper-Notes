@@ -218,6 +218,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Super Resolution
 - Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
+- Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
 
 ---
 ## Training Tricks
