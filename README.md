@@ -160,6 +160,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[DAG]** Adversarial Examples for Semantic Segmentation and Object Detection (2017.03 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1703.08603) [[Caffe]](https://github.com/cihangxie/DAG)
 - **[Focal Loss]** Focal Loss for Dense Object Detection (2017.07) [[Paper]](https://arxiv.org/abs/1708.02002)
 - **[DSOD]** DSOD: Learning Deeply Supervised Object Detectors from Scratch (2017.07 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.01241) [[Caffe with SSD]](https://github.com/szq0214/DSOD) [[PyTorch]](https://github.com/uoip/SSD-variants) [[MXNet]](https://github.com/eureka7mt/mxnet-dsod)
+- **[RFBNet]** Receptive Field Block Net for Accurate and FastObject Detection (2017.11 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1711.07767) [[PyTorch]](https://github.com/ruinmessi/RFBNet)
 - **[Cascade R-CNN]** Cascade R-CNN: Delving into High Quality Object Detection (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.00726) [[Caffe]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN) [[Note_Zhihu]](https://zhuanlan.zhihu.com/p/41825737)
 - **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet) 
 - **[Survey]** Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
