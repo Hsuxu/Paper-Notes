@@ -178,6 +178,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ---
 ## Generative Adversarial Networks
+- **[DCGAN]** Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2015.11 *ICLR 2016*) [[Paper]](https://arxiv.org/abs/1511.06434) [[PyTorch]](https://github.com/pytorch/examples/tree/master/dcgan) [[TensorFlow]](https://github.com/carpedm20/DCGAN-tensorflow) [[Torch]](https://github.com/soumith/dcgan.torch)
 - **[MUNIT]** Multimodal Unsupervised Image-to-Image Translation (2018.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1804.04732) [[PyTorch]](https://github.com/NVlabs/MUNIT)
 - **[SAGAN]** Self-Attention Generative Adversarial Networks(2018.05) [[Paper]](https://arxiv.org/abs/1805.08318) [[PyTorch]](https://github.com/heykeetae/Self-Attention-GAN) 
 - **[DIRT]** Diverse Image-to-Image Translation via Disentangled Representations(2018.08) [[Paper]](https://arxiv.org/abs/1808.00948) [[PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
