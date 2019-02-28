@@ -113,7 +113,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[Vortex Pooling]** Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.04) [[Paper]](https://arxiv.org/Paper/1804.06242)
 - **[DFN]** Learning a Discriminative Feature Network for Semantic Segmentation (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.09337) [[TensorFlow]](https://github.com/whitesockcat/Discriminative-Feature-Network)
 - **[PAG]** Pixel-wise Attentional Gating for Parsimonious Pixel Labeling (2018.05 *WACV 2019*) [[Paper]](https://arxiv.org/abs/1805.01556)
-- **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180)
+- **[FPANet]** Pyramid Attention Network for Semantic Segmentation(2018.05) [[Paper]](https://arxiv.org/Paper/1805.10180) [[PyTorch]](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch)
 - **[Probabilistic U-Net]** A Probabilistic U-Net for Segmentation of Ambiguous Images (2018.06 *NeurIPS  2018*) [[TensorFlow]](https://github.com/SimonKohl/probabilistic_unet)
 - **[G-FRNet]** Gated Feedback Refinement Network for Coarse-to-Fine Dense Semantic Image Labeling (2018.06) [[Paper]](https://arxiv.org/abs/1806.11266) 
 - **[OCNet]** OCNet: Object Context Network for Scene Parsing (2018.09 ) [[Paper]](https://arxiv.org/abs/1809.00916) [[PyTorch]](https://github.com/PkuRainBow/OCNet.pytorch)
