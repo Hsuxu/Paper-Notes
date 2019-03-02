@@ -22,6 +22,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
   - [Medical Image Analysis](#medical-image-analysis)
   - [Other Applications](#other-applications)
     - [Super Resolution](#super-resolution)
+  - [Pose Estimation](#pose-estimation)
   - [Training Tricks](#training-tricks)
     - [Data Augmentation](#data-augmentation)
     - [Normalization](#normalization)
@@ -223,6 +224,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Super Resolution
 - [x] Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
 - [x] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
+
+## Pose Estimation
+- [x] **[Hourglass]** Stacked Hourglass Networks for Human Pose Estimation (2016.03 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1603.06937) [[Torch]](https://github.com/anewell/pose-hg-train)
+- [ ] **[MSPN]** Rethinking on Multi-Stage Networks for Human Pose Estimation (2019.01) [[Paper]](https://arxiv.org/abs/1901.00148)
 
 ---
 ## Training Tricks
