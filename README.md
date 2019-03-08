@@ -232,13 +232,14 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ## Other Applications
 
 ### Super Resolution
-- [x] Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
-- [x] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
+- [ ] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
+- [x] **[EDSR]** Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
+
 
 ## Pose Estimation
 - [ ] **[DeepPose]** DeepPose: Human Pose Estimation via Deep Neural Networks (2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1312.4659) [[Chainer]](https://github.com/mitmul/deeppose)
 - [x] **[Hourglass]** Stacked Hourglass Networks for Human Pose Estimation (2016.03 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1603.06937) [[Torch]](https://github.com/anewell/pose-hg-train)
-- [ ] **[MSPN]** Rethinking on Multi-Stage Networks for Human Pose Estimation (2019.01) [[Paper]](https://arxiv.org/abs/1901.00148)
+- [x] **[MSPN]** Rethinking on Multi-Stage Networks for Human Pose Estimation (2019.01) [[Paper]](https://arxiv.org/abs/1901.00148)
 
 ---
 ## Training Tricks
