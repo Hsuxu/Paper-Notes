@@ -14,6 +14,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
       - [Real Time Segmentation](#real-time-segmentation)
     - [Instance Segmentaion](#instance-segmentaion)
     - [Panoptic Segmentation](#panoptic-segmentation)
+    - [Losses](#losses)
   - [Object Detection](#object-detection)
   - [Image Caption](#image-caption)
   - [Generative Adversarial Networks](#generative-adversarial-networks)
@@ -100,7 +101,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[PixelNet]** PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017.02 ) [[Paper]](https://arxiv.org/abs/1702.06506) [[Caffe]](https://github.com/aayushbansal/PixelNet) [[Project]](http://www.cs.cmu.edu/~aayushb/pixelNet/)
 - [x] **[GCN]** Large Kernel Matters -- [x] Improve Semantic Segmentation by Global Convolutional Network (2017.03 ) [[Paper]](https://arxiv.org/abs/1703.02719) [[PyTorch1]](https://github.com/MEDAL-IITB/Lung-Segmentation) [[PyTorch2]](https://github.com/SConsul/Global_Convolutional_Network)
 - [ ] **[PixelTCN]** Pixel Deconvolutional Networks (2017.05) [[Paper]](https://arxiv.org/abs/1705.06820) [[TensorFlow]](https://github.com/HongyangGao/PixelTCN)
-- [x] **[LovaszSoftmax]** The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks (2017.05 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1705.08790) [[PyTorch&TensorFlow]](https://github.com/bermanmaxim/LovaszSoftmax)
 - [x] **[DRN]** Dilated Residual Networks (2017.05 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1705.09914) [[PyTorch]](https://github.com/fyu/drn/blob/master/classify.py)
 - [ ] **[G-FRNet]** Gated feedback refinement network for dense image labeling (*CVPR 2017*) [[Paper]](https://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf) [[Caffe]](https://github.com/mrochan/gfrnet)
 - [x] **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
@@ -150,6 +150,11 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[PS FPN]** Panoptic Feature Pyramid Networks (2019.01) [[Paper]](https://arxiv.org/abs/1901.02446)
 - [ ] **[UPSNet]** UPSNet: A Unified Panoptic Segmentation Network (2019.01) [[Paper]](https://arxiv.org/abs/1901.03784) 
 
+### Losses
+- [x] **[LovaszSoftmax]** The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks (2017.05 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1705.08790) [[PyTorch&TensorFlow]](https://github.com/bermanmaxim/LovaszSoftmax)
+- [x] **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
+- [ ] **[NeuroIoU]** NeuroIoU: Learning a Surrogate Loss for Semantic Segmentation (2018 *BMVC 2018*) [[Paper]]()
+- [ ] **[Regularized Losses]** On Regularized Losses for Weakly-supervised CNN Segmentation (2018.03 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1803.09569) [[Pytorch Caffe]](https://github.com/meng-tang/rloss)
 
 ---
 ## Object Detection
