@@ -222,6 +222,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [x] Improving Data Augmentation for Medical Image Segmentation (2018.12 *MIDL 2018*) [[Paper]](https://openreview.net/forum?id=rkBBChjiG)
 - [x] Computer-aided diagnosis of prostate cancer using a deep convolutional neural network from multiparametric MRI (*JMRI 2018*) [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/29659067)
 - [ ] **[Ensemble]** A New Ensemble Learning Framework for 3D Biomedical Image Segmentation (2018.12 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1812.03945) [[code]](https://github.com/HaoZheng94/Ensemble)
+- [ ]  Data augmentation using learned transforms for one-shot medical image segmentation (2019.02 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.09383) [[TensorFlow]](https://github.com/xamyzhao/brainstorm)
 
 ---
 ## Other Applications
@@ -235,15 +236,16 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [x] **[Hourglass]** Stacked Hourglass Networks for Human Pose Estimation (2016.03 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1603.06937) [[Torch]](https://github.com/anewell/pose-hg-train)
 - [ ] **[MSPN]** Rethinking on Multi-Stage Networks for Human Pose Estimation (2019.01) [[Paper]](https://arxiv.org/abs/1901.00148)
 
-
 ---
 ## Training Tricks
 - [x] **[Bag of Tricks]** Bag of Tricks for Image Classification with Convolutional Neural Networks (2018.12) [[Paper]](https://arxiv.org/abs/1812.01187)
+
 ### Data Augmentation
 - [x] **[Pairing Samples]** Data Augmentation by Pairing Samples for Images Classification (2018.01) [[Paper]](https://arxiv.org/abs/1801.02929) 
 - [ ] **[AutoAugment]** AutoAugment: Learning Augmentation Policies from Data (2018.05) [[Paper]](https://arxiv.org/abs/1805.09501) 
 - [x] **[Albumentations]** Albumentations: fast and flexible image augmentations (2018.09) [[Paper]](https://arxiv.org/abs/1809.06839)
 - [ ] **[Pixel Augmentation]** Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks (2018.11) [[Paper]](https://arxiv.org/abs/1811.00174)
+- [ ]  Data augmentation using learned transforms for one-shot medical image segmentation (2019.02 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.09383) [[TensorFlow]](https://github.com/xamyzhao/brainstorm)
  
 
 ### Normalization
