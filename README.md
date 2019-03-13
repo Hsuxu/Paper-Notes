@@ -239,6 +239,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ## Pose Estimation
 - [ ] **[DeepPose]** DeepPose: Human Pose Estimation via Deep Neural Networks (2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1312.4659) [[Chainer]](https://github.com/mitmul/deeppose)
 - [x] **[Hourglass]** Stacked Hourglass Networks for Human Pose Estimation (2016.03 *ECCV 2016*) [[Paper]](https://arxiv.org/abs/1603.06937) [[Torch]](https://github.com/anewell/pose-hg-train)
+- [ ] **[Simple Baselines]** Simple Baselines for Human Pose Estimation and Tracking (2018.04 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1804.06208) [[PyTorch]](https://github.com/Microsoft/human-pose-estimation.pytorch)
 - [x] **[MSPN]** Rethinking on Multi-Stage Networks for Human Pose Estimation (2019.01) [[Paper]](https://arxiv.org/abs/1901.00148)
 
 ---
