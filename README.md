@@ -127,7 +127,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - **[ESPNetv2]** ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (2018.11 ) [[Paper]](https://arxiv.org/abs/1811.11431) [[PyTorch]](https://github.com/sacmehta/ESPNetv2)
 - **[CCNet]** CCNet: Criss-Cross Attention for Semantic Segmentation (2018.11) [Paper]](https://arxiv.org/abs/1811.11721) [[PyTorch]](https://github.com/speedinghzl/CCNet)
 - **[DenseASPP]** for Semantic Segmentation in Street Scenes (*CVPR 2018*) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
-- **[DRN]** Dense Relation Network: Learning Consistent and Context-Aware Representation for Semantic Image Segmentation (2018 *ICIP 2018*) [[Paper]](https://ieeexplore.ieee.org/document/8451830/) [[MXNet1]](https://github.com/zhuangyqin/DRN) [MXNet2]](https://github.com/tonysy/DRN-MXNet)
+- **[DRN]** Dense Relation Network: Learning Consistent and Context-Aware Representation for Semantic Image Segmentation (2018 *ICIP 2018*) [[Paper]](https://ieeexplore.ieee.org/document/8451830/) [[MXNet1]](https://github.com/zhuangyqin/DRN) [[MXNet2]](https://github.com/tonysy/DRN-MXNet)
 - **[PSANet]** PSANet: Point-wise Spatial Attention Network for Scene Parsing (2018 *ECCV 2018*) [[Paper]](https://hszhao.github.io/papers/eccv18_psanet.pdf) [[Project]](https://hszhao.github.io/projects/psanet/) [[Caffe]](https://github.com/hszhao/PSANet)
 - **[DUpsampling]** Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation (2019.03 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1903.02120) [[PyTorch]](https://github.com/LinZhuoChen/DUpsampling)
 
