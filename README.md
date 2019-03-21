@@ -153,8 +153,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[UPSNet]** UPSNet: A Unified Panoptic Segmentation Network (2019.01) [[Paper]](https://arxiv.org/abs/1901.03784) 
 
 ### Losses
-- [x] **[LovaszSoftmax]** The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks (2017.05 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1705.08790) [[PyTorch&TensorFlow]](https://github.com/bermanmaxim/LovaszSoftmax)
+- [ ] **[LovaszSoftmax]** The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks (2017.05 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1705.08790) [[PyTorch&TensorFlow]](https://github.com/bermanmaxim/LovaszSoftmax)
+- [ ] **[Max-Pooling Loss]** Loss Max-Pooling for Semantic Image Segmentation (2017.04 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1704.02966) [[PyTorch]](https://github.com/BelBES/mpl.pytorch)
 - [x] **[Tversky loss]** Tversky loss function for image segmentation using 3D fully convolutional deep networks (2017.06) [[Paper]](https://arxiv.org/abs/1706.05721)
+- [ ] **[Generalised Dice]** Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations (2017.07) [[Paper]](https://arxiv.org/abs/1707.03237)
 - [ ] **[NeuroIoU]** NeuroIoU: Learning a Surrogate Loss for Semantic Segmentation (2018 *BMVC 2018*) [[Paper]]()
 - [ ] **[Regularized Losses]** On Regularized Losses for Weakly-supervised CNN Segmentation (2018.03 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1803.09569) [[Pytorch Caffe]](https://github.com/meng-tang/rloss)
 
