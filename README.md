@@ -141,6 +141,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [x] **[MaskLab]** MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.04837) [[Project]](https://vitalab.github.io/deep-learning/2018/07/26/masklab.html)
 - [x] **[PANet]** Path Aggregation Network for Instance Segmentation (2018.03 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1803.01534) [[PyTorch]](https://github.com/ShuLiu1993/PANet)
 - [ ] **[PRMs]** Weakly Supervised Instance Segmentation Using Class Peak Response (2018.04 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1804.00880) [[PyTorch]](https://github.com/ZhouYanzhao/PRM)
+- **[TensorMask]** TensorMask: A Foundation for Dense Object Segmentation (2019.03) [[Paper]](https://arxiv.org/abs/1903.12174)
 
 ### Panoptic Segmentation
 - [x] **[PS]** Panoptic Segmentation (2018.01 ) [[Paper]](https://arxiv.org/abs/1801.00868) 
