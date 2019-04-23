@@ -16,6 +16,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Panoptic Segmentation](#panoptic-segmentation)
     - [Losses](#losses)
   - [Object Detection](#object-detection)
+    - [Anchor Free](#anchor-free)
   - [Image Caption](#image-caption)
   - [Generative Adversarial Networks](#generative-adversarial-networks)
   - [Attention Mechanism](#attention-mechanism)
@@ -180,6 +181,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [x] **[GHM_Detection]** Gradient Harmonized Single-stage Detector (2018.11 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1811.05181) [[PyTorch]](https://github.com/libuyu/GHM_Detection)
 - [ ] **[BoF]** Bag of Freebies for Training Object Detection Neural Networks (2019.02) [[Paper]](https://arxiv.org/abs/1902.04103) [[MxNet]](https://github.com/dmlc/gluon-cv)
 - [ ] **[Generalized IoU]** Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression (2019.02, *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.09630)
+
+### Anchor Free
+- [ ] **[DenseBox]** DenseBox: Unifying Landmark Localization with End to End Object Detection (2015.09) [[Paper]](https://arxiv.org/abs/1509.04874)
 
 ---
 ## Image Caption
