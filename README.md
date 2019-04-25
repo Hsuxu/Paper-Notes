@@ -17,6 +17,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Losses](#losses)
   - [Object Detection](#object-detection)
     - [Anchor Free](#anchor-free)
+  - [- [ ] **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet)](#cornernet-cornernet-detecting-objects-as-paired-keypoints-201808-eccv-2018-paperhttpsarxivorgabs180801244-pytorchhttpsgithubcomprinceton-vlcornernet)
   - [Image Caption](#image-caption)
   - [Generative Adversarial Networks](#generative-adversarial-networks)
   - [Attention Mechanism](#attention-mechanism)
@@ -183,8 +184,8 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[Generalized IoU]** Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression (2019.02, *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.09630)
 
 ### Anchor Free
-- [ ] **[DenseBox]** DenseBox: Unifying Landmark Localization with End to End Object Detection (2015.09) [[Paper]](https://arxiv.org/abs/1509.04874) [[Caffe]](https://github.com/yangyi02/densebox) [[PyTorch]](https://github.com/CaptainEven/DenseBox)
-
+- [x] **[DenseBox]** DenseBox: Unifying Landmark Localization with End to End Object Detection (2015.09) [[Paper]](https://arxiv.org/abs/1509.04874) [[Caffe]](https://github.com/yangyi02/densebox) [[PyTorch]](https://github.com/CaptainEven/DenseBox)
+- [ ] **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet)
 ---
 ## Image Caption
 - [x] **[Show, Attend and Tell]** Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[Paper]](https://arxiv.org/abs/1502.03044) [[TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
