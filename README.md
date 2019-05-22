@@ -184,8 +184,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ### Anchor Free
 - [x] **[DenseBox]** DenseBox: Unifying Landmark Localization with End to End Object Detection (2015.09) [[Paper]](https://arxiv.org/abs/1509.04874) [[Caffe]](https://github.com/yangyi02/densebox) [[PyTorch]](https://github.com/CaptainEven/DenseBox)
-- [ ] **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet)
+- [x] **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet)
 - [ ] **[ExtremeNet]** Bottom-up Object Detection by Grouping Extreme and Center Points(2019.01 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1901.08043) [[PyTorch]](https://github.com/xingyizhou/ExtremeNet)
+- [x] **[CenterNet]** Object as Points (2019.04) [[Paper]](https://arxiv.org/pdf/1904.07850.pdf) [[PyTorch]](https://github.com/xingyizhou/CenterNet)
+- [x] **[CenterNet]** CenterNet: Keypoint Triplets for Object Detection(2019.04 *CVPR2019*)[[Paper]](https://arxiv.org/abs/1904.08189) [[PyTorch]](https://github.com/Duankaiwen/CenterNet)
 
 ---
 ## Image Caption
