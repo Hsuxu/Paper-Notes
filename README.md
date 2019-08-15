@@ -78,6 +78,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ---
 ## Image Segmentation
+![Image Segmentation](figs/Image-Segmentation.png)
 
 ### Semantic Segmentation
 - [x] **[FCN1]** Fully Convolutional Networks for Semantic Segmentation (2014.11,*CVPR 2015*) [[Paper1]](http://www.arxiv.org/abs/1411.4038) [[Paper1]](http://www.arxiv.org/abs/1605.06211) [[PyTorch]](https://github.com/wkentaro/pytorch-fcn) 
@@ -165,6 +166,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 ---
 ## Object Detection
+
+![Object-Detection](figs/Object-Detection.png)
+
 - [x] **[RCNN]** Rich feature hierarchies for accurate object detection and semantic segmentation(2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1311.2524) [[Matlab]](https://github.com/rbgirshick/rcnn)
 - [x] **[Fast R-CNN]** Fast R-CNN (2015.04 *ICCV 2015*) [[Paper]](https://arxiv.org/abs/1504.08083) [[Caffe]](https://github.com/rbgirshick/fast-rcnn)
 - [x] **[YOLO]** You Only Look Once: Unified, Real-Time Object Detection (2015.06 *CVPR 2016*) [[Paper]](https://arxiv.org/abs/1506.02640) [[Project]](https://pjreddie.com/darknet/yolo/) [[DarkNet]](https://github.com/pjreddie/darknet) [[PyTorch]](https://github.com/xiongzihua/pytorch-YOLO-v1)
@@ -176,7 +180,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[DSOD]** DSOD: Learning Deeply Supervised Object Detectors from Scratch (2017.07 *ICCV 2017*) [[Paper]](https://arxiv.org/abs/1708.01241) [[Caffe with SSD]](https://github.com/szq0214/DSOD) [[PyTorch]](https://github.com/uoip/SSD-variants) [[MXNet]](https://github.com/eureka7mt/mxnet-dsod)
 - [x] **[RFBNet]** Receptive Field Block Net for Accurate and FastObject Detection (2017.11 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1711.07767) [[PyTorch]](https://github.com/ruinmessi/RFBNet)
 - [ ] **[Cascade R-CNN]** Cascade R-CNN: Delving into High Quality Object Detection (2017.12 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1712.00726) [[Caffe]](https://github.com/zhaoweicai/Detectron-Cascade-RCNN) [[Note_Zhihu]](https://zhuanlan.zhihu.com/p/41825737)
-- [ ] **[CornerNet]** CornerNet: Detecting Objects as Paired Keypoints (2018.08 *ECCV 2018*) [[Paper]](https://arxiv.org/abs/1808.01244) [[PyTorch]](https://github.com/princeton-vl/CornerNet) 
 - [x] **[Survey]** Deep Learning for Generic Object Detection: A Survey (2018.09 *IJCV 2018*) [[Paper]](https://arxiv.org/abs/1809.02165)
 - [ ] **[Training From Scratch]** Rethinking ImageNet Pre-training (2018.11) [[Paper]](https://arxiv.org/abs/1811.08883)
 - [x] **[GHM_Detection]** Gradient Harmonized Single-stage Detector (2018.11 *AAAI 2019*) [[Paper]](https://arxiv.org/abs/1811.05181) [[PyTorch]](https://github.com/libuyu/GHM_Detection)
