@@ -17,13 +17,13 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
     - [Losses](#losses)
   - [Object Detection](#object-detection)
     - [Anchor Free](#anchor-free)
+  - [Image Restoration](#image-restoration)
+    - [Super Resolution](#super-resolution)
   - [Image Caption](#image-caption)
   - [Generative Adversarial Networks](#generative-adversarial-networks)
   - [Attention Mechanism](#attention-mechanism)
   - [Natural Language Processing Related](#natural-language-processing-related)
   - [Medical Image Analysis](#medical-image-analysis)
-  - [Image Restoration](#image-restoration)
-    - [Super Resolution](#super-resolution)
   - [Other Applications](#other-applications)
   - [Pose Estimation](#pose-estimation)
   - [Training Tricks](#training-tricks)
@@ -193,6 +193,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [x] **[CenterNet]** Object as Points (2019.04) [[Paper]](https://arxiv.org/pdf/1904.07850.pdf) [[PyTorch]](https://github.com/xingyizhou/CenterNet)
 - [x] **[CenterNet]** CenterNet: Keypoint Triplets for Object Detection(2019.04 *CVPR2019*)[[Paper]](https://arxiv.org/abs/1904.08189) [[PyTorch]](https://github.com/Duankaiwen/CenterNet)
 
+
+## Image Restoration
+### Super Resolution
+- [x] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
+- [x] **[EDSR]** Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
+- [ ] Residual Dense Network for Image Super-Resolution (2018.02 *CVPR 2018*) [[Paper]](https://arxiv.org/abs/1802.08797) [[Torch]](https://github.com/yulunzhang/RDN)
+- [x] Wide Activation for Efficient and Accurate Image Super-Resolution (2018.08) [[Paper]](https://arxiv.org/abs/1808.08718) [[PyTorch]](https://github.com/JiahuiYu/wdsr_ntire2018)
+
+
 ---
 ## Image Caption
 - [x] **[Show, Attend and Tell]** Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[Paper]](https://arxiv.org/abs/1502.03044) [[TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
@@ -242,12 +251,6 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[MultiResUNet]** MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation (2019.02 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.04049) [[TensorFlow]](https://github.com/nibtehaz/MultiResUNet)
 - [ ]  Data augmentation using learned transforms for one-shot medical image segmentation (2019.02 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.09383) [[TensorFlow]](https://github.com/xamyzhao/brainstorm)
 
-
-## Image Restoration
-### Super Resolution
-- [x] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
-- [x] **[EDSR]** Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
-- [x] Wide Activation for Efficient and Accurate Image Super-Resolution (2018.08) [[Paper]](https://arxiv.org/abs/1808.08718) [[PyTorch]](https://github.com/JiahuiYu/wdsr_ntire2018)
 
 ---
 ## Other Applications
