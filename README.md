@@ -22,8 +22,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
   - [Attention Mechanism](#attention-mechanism)
   - [Natural Language Processing Related](#natural-language-processing-related)
   - [Medical Image Analysis](#medical-image-analysis)
-  - [Other Applications](#other-applications)
+  - [Image Restoration](#image-restoration)
     - [Super Resolution](#super-resolution)
+  - [Other Applications](#other-applications)
   - [Pose Estimation](#pose-estimation)
   - [Training Tricks](#training-tricks)
     - [Data Augmentation](#data-augmentation)
@@ -238,13 +239,15 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ ] **[MultiResUNet]** MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation (2019.02 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.04049) [[TensorFlow]](https://github.com/nibtehaz/MultiResUNet)
 - [ ]  Data augmentation using learned transforms for one-shot medical image segmentation (2019.02 *CVPR 2019*) [[Paper]](https://arxiv.org/abs/1902.09383) [[TensorFlow]](https://github.com/xamyzhao/brainstorm)
 
+
+## Image Restoration
+### Super Resolution
+- [x] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
+- [x] **[EDSR]** Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
+- [x] Wide Activation for Efficient and Accurate Image Super-Resolution (2018.08) [[Paper]](https://arxiv.org/abs/1808.08718) [[PyTorch]](https://github.com/JiahuiYu/wdsr_ntire2018)
+
 ---
 ## Other Applications
-
-### Super Resolution
-- [ ] Deep Learning for Image Super-resolution: A Survey [[Paper]](https://arxiv.org/abs/1902.06068)
-- [x] **[EDSR]** Enhanced Deep Residual Networks for Single Image Super-Resolution (2017.7 *CVPR 2017*) [[Paper]](https://arxiv.org/abs/1707.02921) [[PyTorch]](https://github.com/thstkdgus35/EDSR-PyTorch)
-
 
 ## Pose Estimation
 - [ ] **[DeepPose]** DeepPose: Human Pose Estimation via Deep Neural Networks (2013.11 *CVPR 2014*) [[Paper]](https://arxiv.org/abs/1312.4659) [[Chainer]](https://github.com/mitmul/deeppose)
